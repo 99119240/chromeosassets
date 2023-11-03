@@ -1,0 +1,34 @@
+{
+  "version": 20211126,
+  "packs": [
+    {
+      "name": "en_us_bundle",
+      "locale": "en-US",
+      "files": [{
+        "name": "main.dict"
+      }],
+      "version": 2021091900
+    },
+    {
+      "name": "es_es_bundle",
+      "locale": "es-ES",
+      "files": [{
+        "name": "main.dict"
+      }],
+      "version": 2021091900
+    },
+    {
+      "name": "ko_bundle",
+      "locale": "ko",
+      "version": 20211126
+    },
+    {
+      "name": "ja_bundle",
+      "files": [{
+        "name": "mozcdata-24.10.1.data"
+      }],
+      "locale": "ja",
+      "version": 1
+    }
+  ]
+}
