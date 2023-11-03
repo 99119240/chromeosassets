@@ -1,0 +1,1050 @@
+
+{
+  "packs": [
+    {
+      "name": "pack_mapping_v1_segment_decode_20171206",
+      "download_urls": [ "https://dl.google.com/handwriting/models/packmapping.20171206.pb" ],
+      "size": 8635
+    },
+
+   {
+      "name": "af20141124_hwr_prodlm_4586CED4_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/af20141124.hwr_prodlm.4586CED4.zip" ],
+      "compressed_size": 8734023,
+      "download_packing_scheme": "zip",
+      "size": 20448197
+    },
+
+   {
+      "name": "arabic20150605_bundle_hwr_prodlm_D9D15724_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/arabic20150605.bundle.hwr_prodlm.D9D15724.zip" ],
+      "compressed_size": 8173386,
+      "download_packing_scheme": "zip",
+      "size": 18851114
+    },
+
+   {
+      "name": "armenian20161207_bundle_hwr_prodlm_FDA4A833_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/armenian20161207.bundle.hwr_prodlm.FDA4A833.zip" ],
+      "compressed_size": 13638686,
+      "download_packing_scheme": "zip",
+      "size": 23522800
+    },
+
+   {
+      "name": "as20151106_hwr_prodlm_621CCFF3_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/as20151106.hwr_prodlm.621CCFF3.zip" ],
+      "compressed_size": 7068370,
+      "download_packing_scheme": "zip",
+      "size": 15423352
+    },
+
+   {
+      "name": "az20141124_hwr_prodlm_D1627623_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/az20141124.hwr_prodlm.D1627623.zip" ],
+      "compressed_size": 9015257,
+      "download_packing_scheme": "zip",
+      "size": 20194297
+    },
+
+   {
+      "name": "be20141126_hwr_prodlm_796236E8_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/be20141126.hwr_prodlm.796236E8.zip" ],
+      "compressed_size": 9232345,
+      "download_packing_scheme": "zip",
+      "size": 20632516
+    },
+
+   {
+      "name": "bengali20150318_bundle_hwr_prodlm_D927B06B_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/bengali20150318.bundle.hwr_prodlm.D927B06B.zip" ],
+      "compressed_size": 8645323,
+      "download_packing_scheme": "zip",
+      "size": 15193540
+    },
+
+   {
+      "name": "bg20141126_hwr_prodlm_06F4D708_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/bg20141126.hwr_prodlm.06F4D708.zip" ],
+      "compressed_size": 9850169,
+      "download_packing_scheme": "zip",
+      "size": 22737877
+    },
+
+   {
+      "name": "bs20141124_hwr_prodlm_E00A905D_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/bs20141124.hwr_prodlm.E00A905D.zip" ],
+      "compressed_size": 8578880,
+      "download_packing_scheme": "zip",
+      "size": 20208913
+    },
+
+   {
+      "name": "ca20141124_hwr_prodlm_7B89F1E2_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ca20141124.hwr_prodlm.7B89F1E2.zip" ],
+      "compressed_size": 9464629,
+      "download_packing_scheme": "zip",
+      "size": 22073428
+    },
+
+   {
+      "name": "ceb20141124_hwr_prodlm_33EFEF9F_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ceb20141124.hwr_prodlm.33EFEF9F.zip" ],
+      "compressed_size": 7075496,
+      "download_packing_scheme": "zip",
+      "size": 16124853
+    },
+
+   {
+      "name": "chinese20160216_bundle_hwr_prodlm_408CDA26_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/chinese20160216.bundle.hwr_prodlm.408CDA26.zip" ],
+      "compressed_size": 10558593,
+      "download_packing_scheme": "zip",
+      "size": 16546363
+    },
+
+   {
+      "name": "co20151116_hwr_prodlm_7DA16BC9_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/co20151116.hwr_prodlm.7DA16BC9.zip" ],
+      "compressed_size": 5277625,
+      "download_packing_scheme": "zip",
+      "size": 12093323
+    },
+
+   {
+      "name": "cs20141124_hwr_prodlm_BBFCA70E_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/cs20141124.hwr_prodlm.BBFCA70E.zip" ],
+      "compressed_size": 9495048,
+      "download_packing_scheme": "zip",
+      "size": 21969317
+    },
+
+   {
+      "name": "cy20141124_hwr_prodlm_CDA844CF_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/cy20141124.hwr_prodlm.CDA844CF.zip" ],
+      "compressed_size": 8454745,
+      "download_packing_scheme": "zip",
+      "size": 19184921
+    },
+
+   {
+      "name": "cyrillic20160609_bundle_hwr_prodlm_4DE9C666_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/cyrillic20160609.bundle.hwr_prodlm.4DE9C666.zip" ],
+      "compressed_size": 7070822,
+      "download_packing_scheme": "zip",
+      "size": 13289180
+    },
+
+   {
+      "name": "da20150121_hwr_prodlm_17DCF3C5_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/da20150121.hwr_prodlm.17DCF3C5.zip" ],
+      "compressed_size": 10284197,
+      "download_packing_scheme": "zip",
+      "size": 24512085
+    },
+
+   {
+      "name": "de20141119_hwr_prodlm_1979BDB2_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/de20141119.hwr_prodlm.1979BDB2.zip" ],
+      "compressed_size": 8459257,
+      "download_packing_scheme": "zip",
+      "size": 20936242
+    },
+
+   {
+      "name": "devanagari20150224_bundle_hwr_prodlm_62A25ACB_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/devanagari20150224.bundle.hwr_prodlm.62A25ACB.zip" ],
+      "compressed_size": 7195618,
+      "download_packing_scheme": "zip",
+      "size": 12539204
+    },
+
+   {
+      "name": "eo20141124_hwr_prodlm_61C0D9A4_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/eo20141124.hwr_prodlm.61C0D9A4.zip" ],
+      "compressed_size": 9036861,
+      "download_packing_scheme": "zip",
+      "size": 20443608
+    },
+
+   {
+      "name": "es20141119_hwr_prodlm_43F0E4BE_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/es20141119.hwr_prodlm.43F0E4BE.zip" ],
+      "compressed_size": 8469360,
+      "download_packing_scheme": "zip",
+      "size": 20913873
+    },
+
+   {
+      "name": "et20150121_hwr_prodlm_8573B018_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/et20150121.hwr_prodlm.8573B018.zip" ],
+      "compressed_size": 9937011,
+      "download_packing_scheme": "zip",
+      "size": 23568332
+    },
+
+   {
+      "name": "ethiopic20170501_bundle_hwr_prodlm_1E9DE740_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ethiopic20170501.bundle.hwr_prodlm.1E9DE740.zip" ],
+      "compressed_size": 6978529,
+      "download_packing_scheme": "zip",
+      "size": 14527759
+    },
+
+   {
+      "name": "eu20141124_hwr_prodlm_17C3342F_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/eu20141124.hwr_prodlm.17C3342F.zip" ],
+      "compressed_size": 9736028,
+      "download_packing_scheme": "zip",
+      "size": 22482842
+    },
+
+   {
+      "name": "fa20150605_hwr_prodlm_16C268FE_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/fa20150605.hwr_prodlm.16C268FE.zip" ],
+      "compressed_size": 9220530,
+      "download_packing_scheme": "zip",
+      "size": 20701737
+    },
+
+   {
+      "name": "fi20150126_hwr_prodlm_E6CB9A86_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/fi20150126.hwr_prodlm.E6CB9A86.zip" ],
+      "compressed_size": 10995935,
+      "download_packing_scheme": "zip",
+      "size": 26212666
+    },
+
+   {
+      "name": "fr20150126_hwr_prodlm_FA20F7D9_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/fr20150126.hwr_prodlm.FA20F7D9.zip" ],
+      "compressed_size": 10240459,
+      "download_packing_scheme": "zip",
+      "size": 24803090
+    },
+
+   {
+      "name": "fy20151116_hwr_prodlm_4AD8C096_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/fy20151116.hwr_prodlm.4AD8C096.zip" ],
+      "compressed_size": 6586216,
+      "download_packing_scheme": "zip",
+      "size": 14922696
+    },
+
+   {
+      "name": "ga20141124_hwr_prodlm_2EE6BB1D_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ga20141124.hwr_prodlm.2EE6BB1D.zip" ],
+      "compressed_size": 8058763,
+      "download_packing_scheme": "zip",
+      "size": 18289651
+    },
+
+   {
+      "name": "gd20151116_hwr_prodlm_330F1D84_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/gd20151116.hwr_prodlm.330F1D84.zip" ],
+      "compressed_size": 5057963,
+      "download_packing_scheme": "zip",
+      "size": 11456980
+    },
+
+   {
+      "name": "georgian20161104_bundle_hwr_prodlm_E9B813EE_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/georgian20161104.bundle.hwr_prodlm.E9B813EE.zip" ],
+      "compressed_size": 5917768,
+      "download_packing_scheme": "zip",
+      "size": 10615828
+    },
+
+   {
+      "name": "gl20141124_hwr_prodlm_B899898C_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/gl20141124.hwr_prodlm.B899898C.zip" ],
+      "compressed_size": 8853757,
+      "download_packing_scheme": "zip",
+      "size": 20350532
+    },
+
+   {
+      "name": "greek20151106_bundle_hwr_prodlm_767CD3CB_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/greek20151106.bundle.hwr_prodlm.767CD3CB.zip" ],
+      "compressed_size": 8563136,
+      "download_packing_scheme": "zip",
+      "size": 15041650
+    },
+
+   {
+      "name": "gsw20161101_hwr_prodlm_BA76BE7C_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/gsw20161101.hwr_prodlm.BA76BE7C.zip" ],
+      "compressed_size": 1287710,
+      "download_packing_scheme": "zip",
+      "size": 2968016
+    },
+
+   {
+      "name": "gujarati20160608_bundle_hwr_prodlm_1C316DF7_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/gujarati20160608.bundle.hwr_prodlm.1C316DF7.zip" ],
+      "compressed_size": 6294406,
+      "download_packing_scheme": "zip",
+      "size": 10663362
+    },
+
+   {
+      "name": "haw20151116_hwr_prodlm_6ED02006_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/haw20151116.hwr_prodlm.6ED02006.zip" ],
+      "compressed_size": 5948154,
+      "download_packing_scheme": "zip",
+      "size": 13622522
+    },
+
+   {
+      "name": "hebrew20160614_bundle_hwr_prodlm_7C1E6655_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/hebrew20160614.bundle.hwr_prodlm.7C1E6655.zip" ],
+      "compressed_size": 8645634,
+      "download_packing_scheme": "zip",
+      "size": 15994574
+    },
+
+   {
+      "name": "hmn20141124_hwr_prodlm_44D58425_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/hmn20141124.hwr_prodlm.44D58425.zip" ],
+      "compressed_size": 5085094,
+      "download_packing_scheme": "zip",
+      "size": 11492945
+    },
+
+   {
+      "name": "hr20150121_hwr_prodlm_76CD5951_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/hr20150121.hwr_prodlm.76CD5951.zip" ],
+      "compressed_size": 9876518,
+      "download_packing_scheme": "zip",
+      "size": 23470741
+    },
+
+   {
+      "name": "ht20150121_hwr_prodlm_40D85B8D_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ht20150121.hwr_prodlm.40D85B8D.zip" ],
+      "compressed_size": 6201984,
+      "download_packing_scheme": "zip",
+      "size": 28302878
+    },
+
+   {
+      "name": "hu20141124_hwr_prodlm_DCBD9ED6_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/hu20141124.hwr_prodlm.DCBD9ED6.zip" ],
+      "compressed_size": 9966579,
+      "download_packing_scheme": "zip",
+      "size": 23136676
+    },
+
+   {
+      "name": "id20141124_hwr_prodlm_99F952CC_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/id20141124.hwr_prodlm.99F952CC.zip" ],
+      "compressed_size": 10552554,
+      "download_packing_scheme": "zip",
+      "size": 25408241
+    },
+
+   {
+      "name": "is20150121_hwr_prodlm_8E4699DA_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/is20150121.hwr_prodlm.8E4699DA.zip" ],
+      "compressed_size": 10380949,
+      "download_packing_scheme": "zip",
+      "size": 23935373
+    },
+
+   {
+      "name": "it20150126_hwr_prodlm_6B759765_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/it20150126.hwr_prodlm.6B759765.zip" ],
+      "compressed_size": 10723166,
+      "download_packing_scheme": "zip",
+      "size": 26260587
+    },
+
+   {
+      "name": "japanese20150330_bundle_hwr_prodlm_B87CAB9C_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/japanese20150330.bundle.hwr_prodlm.B87CAB9C.zip" ],
+      "compressed_size": 8074683,
+      "download_packing_scheme": "zip",
+      "size": 15571481
+    },
+
+   {
+      "name": "jw20150121_hwr_prodlm_89EB6668_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/jw20150121.hwr_prodlm.89EB6668.zip" ],
+      "compressed_size": 7715672,
+      "download_packing_scheme": "zip",
+      "size": 18188679
+    },
+
+   {
+      "name": "kannada20160609_bundle_hwr_prodlm_FD03FDA6_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/kannada20160609.bundle.hwr_prodlm.FD03FDA6.zip" ],
+      "compressed_size": 7048226,
+      "download_packing_scheme": "zip",
+      "size": 12028950
+    },
+
+   {
+      "name": "khmer20160609_bundle_hwr_prodlm_1C7E8F65_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/khmer20160609.bundle.hwr_prodlm.1C7E8F65.zip" ],
+      "compressed_size": 4021406,
+      "download_packing_scheme": "zip",
+      "size": 6711886
+    },
+
+   {
+      "name": "kk20160222_hwr_prodlm_C9D9600E_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/kk20160222.hwr_prodlm.C9D9600E.zip" ],
+      "compressed_size": 9081894,
+      "download_packing_scheme": "zip",
+      "size": 19894435
+    },
+
+   {
+      "name": "korean20150408_bundle_hwr_prodlm_6F6A3B47_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/korean20150408.bundle.hwr_prodlm.6F6A3B47.zip" ],
+      "compressed_size": 8571179,
+      "download_packing_scheme": "zip",
+      "size": 16078236
+    },
+
+   {
+      "name": "ku20141124_hwr_prodlm_4BAC9ECE_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ku20141124.hwr_prodlm.4BAC9ECE.zip" ],
+      "compressed_size": 8564885,
+      "download_packing_scheme": "zip",
+      "size": 18918956
+    },
+
+   {
+      "name": "ky20141126_hwr_prodlm_B3E79A48_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ky20141126.hwr_prodlm.B3E79A48.zip" ],
+      "compressed_size": 8199524,
+      "download_packing_scheme": "zip",
+      "size": 18169111
+    },
+
+   {
+      "name": "la20150121_hwr_prodlm_E00ABC7F_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/la20150121.hwr_prodlm.E00ABC7F.zip" ],
+      "compressed_size": 8404649,
+      "download_packing_scheme": "zip",
+      "size": 21148742
+    },
+
+   {
+      "name": "lao20150304_bundle_hwr_prodlm_B364FA3B_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/lao20150304.bundle.hwr_prodlm.B364FA3B.zip" ],
+      "compressed_size": 5286273,
+      "download_packing_scheme": "zip",
+      "size": 9037706
+    },
+
+   {
+      "name": "latin20160108_bundle_hwr_prodlm_114A11F8_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/latin20160108.bundle.hwr_prodlm.114A11F8.zip" ],
+      "compressed_size": 7884775,
+      "download_packing_scheme": "zip",
+      "size": 20661204
+    },
+
+   {
+      "name": "lb20151116_hwr_prodlm_C123C33C_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/lb20151116.hwr_prodlm.C123C33C.zip" ],
+      "compressed_size": 5345235,
+      "download_packing_scheme": "zip",
+      "size": 11983739
+    },
+
+   {
+      "name": "lt20150121_hwr_prodlm_4ED7F0A3_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/lt20150121.hwr_prodlm.4ED7F0A3.zip" ],
+      "compressed_size": 9176901,
+      "download_packing_scheme": "zip",
+      "size": 21481160
+    },
+
+   {
+      "name": "lv20141124_hwr_prodlm_B907F78B_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/lv20141124.hwr_prodlm.B907F78B.zip" ],
+      "compressed_size": 9658187,
+      "download_packing_scheme": "zip",
+      "size": 22220557
+    },
+
+   {
+      "name": "malayalam20150904_bundle_hwr_prodlm_6416A84D_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/malayalam20150904.bundle.hwr_prodlm.6416A84D.zip" ],
+      "compressed_size": 8096765,
+      "download_packing_scheme": "zip",
+      "size": 13732974
+    },
+
+   {
+      "name": "mg20150121_hwr_prodlm_54C5D886_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/mg20150121.hwr_prodlm.54C5D886.zip" ],
+      "compressed_size": 6380788,
+      "download_packing_scheme": "zip",
+      "size": 14889443
+    },
+
+   {
+      "name": "mi20141124_hwr_prodlm_EB23BA45_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/mi20141124.hwr_prodlm.EB23BA45.zip" ],
+      "compressed_size": 7339178,
+      "download_packing_scheme": "zip",
+      "size": 16623063
+    },
+
+   {
+      "name": "mk20141126_hwr_prodlm_B95BA583_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/mk20141126.hwr_prodlm.B95BA583.zip" ],
+      "compressed_size": 7737160,
+      "download_packing_scheme": "zip",
+      "size": 17738861
+    },
+
+   {
+      "name": "mn20141126_hwr_prodlm_021DAA52_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/mn20141126.hwr_prodlm.021DAA52.zip" ],
+      "compressed_size": 8341261,
+      "download_packing_scheme": "zip",
+      "size": 18608193
+    },
+
+   {
+      "name": "mr20141117_hwr_prodlm_A2A37575_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/mr20141117.hwr_prodlm.A2A37575.zip" ],
+      "compressed_size": 4192351,
+      "download_packing_scheme": "zip",
+      "size": 9596930
+    },
+
+   {
+      "name": "ms20141124_hwr_prodlm_4B1BADDB_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ms20141124.hwr_prodlm.4B1BADDB.zip" ],
+      "compressed_size": 10054389,
+      "download_packing_scheme": "zip",
+      "size": 23684028
+    },
+
+   {
+      "name": "mt20141124_hwr_prodlm_5E1CB8D8_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/mt20141124.hwr_prodlm.5E1CB8D8.zip" ],
+      "compressed_size": 8527770,
+      "download_packing_scheme": "zip",
+      "size": 19575619
+    },
+
+   {
+      "name": "myanmar20151104_bundle_hwr_prodlm_50CD974E_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/myanmar20151104.bundle.hwr_prodlm.50CD974E.zip" ],
+      "compressed_size": 5473800,
+      "download_packing_scheme": "zip",
+      "size": 9296188
+    },
+
+   {
+      "name": "ne20150224_hwr_prodlm_26DD68ED_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ne20150224.hwr_prodlm.26DD68ED.zip" ],
+      "compressed_size": 6338391,
+      "download_packing_scheme": "zip",
+      "size": 14334605
+    },
+
+   {
+      "name": "nl20141124_hwr_prodlm_C9C5E92E_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/nl20141124.hwr_prodlm.C9C5E92E.zip" ],
+      "compressed_size": 10561773,
+      "download_packing_scheme": "zip",
+      "size": 25685910
+    },
+
+   {
+      "name": "no20141124_hwr_prodlm_9BF99796_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/no20141124.hwr_prodlm.9BF99796.zip" ],
+      "compressed_size": 9958318,
+      "download_packing_scheme": "zip",
+      "size": 23612487
+    },
+
+   {
+      "name": "ny20141124_hwr_prodlm_E04130BC_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ny20141124.hwr_prodlm.E04130BC.zip" ],
+      "compressed_size": 5837499,
+      "download_packing_scheme": "zip",
+      "size": 13219324
+    },
+
+   {
+      "name": "odia20160608_bundle_hwr_prodlm_935F5A15_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/odia20160608.bundle.hwr_prodlm.935F5A15.zip" ],
+      "compressed_size": 4574514,
+      "download_packing_scheme": "zip",
+      "size": 7578978
+    },
+
+   {
+      "name": "pl20141124_hwr_prodlm_120763CA_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/pl20141124.hwr_prodlm.120763CA.zip" ],
+      "compressed_size": 10047492,
+      "download_packing_scheme": "zip",
+      "size": 23808306
+    },
+
+   {
+      "name": "pt20141124_hwr_prodlm_00FFAC3B_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/pt20141124.hwr_prodlm.00FFAC3B.zip" ],
+      "compressed_size": 9976993,
+      "download_packing_scheme": "zip",
+      "size": 24123429
+    },
+
+   {
+      "name": "punjabi20160608_bundle_hwr_prodlm_305A8841_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/punjabi20160608.bundle.hwr_prodlm.305A8841.zip" ],
+      "compressed_size": 6677200,
+      "download_packing_scheme": "zip",
+      "size": 11295320
+    },
+
+   {
+      "name": "ro20141119_hwr_prodlm_32221B43_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ro20141119.hwr_prodlm.32221B43.zip" ],
+      "compressed_size": 10340189,
+      "download_packing_scheme": "zip",
+      "size": 24596825
+    },
+
+   {
+      "name": "sinhala20151106_bundle_hwr_prodlm_B51A18A6_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sinhala20151106.bundle.hwr_prodlm.B51A18A6.zip" ],
+      "compressed_size": 6854432,
+      "download_packing_scheme": "zip",
+      "size": 11798008
+    },
+
+   {
+      "name": "sk20150121_hwr_prodlm_F8F3921D_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sk20150121.hwr_prodlm.F8F3921D.zip" ],
+      "compressed_size": 3857485,
+      "download_packing_scheme": "zip",
+      "size": 8804372
+    },
+
+   {
+      "name": "sl20141124_hwr_prodlm_FB4A0623_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sl20141124.hwr_prodlm.FB4A0623.zip" ],
+      "compressed_size": 9785141,
+      "download_packing_scheme": "zip",
+      "size": 22960547
+    },
+
+   {
+      "name": "sm20151116_hwr_prodlm_BB198A28_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sm20151116.hwr_prodlm.BB198A28.zip" ],
+      "compressed_size": 550563,
+      "download_packing_scheme": "zip",
+      "size": 993054
+    },
+
+   {
+      "name": "sn20151116_hwr_prodlm_579AA5F8_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sn20151116.hwr_prodlm.579AA5F8.zip" ],
+      "compressed_size": 1565955,
+      "download_packing_scheme": "zip",
+      "size": 3591309
+    },
+
+   {
+      "name": "so20141124_hwr_prodlm_65DB22B6_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/so20141124.hwr_prodlm.65DB22B6.zip" ],
+      "compressed_size": 7352862,
+      "download_packing_scheme": "zip",
+      "size": 17062930
+    },
+
+   {
+      "name": "sq20141124_hwr_prodlm_7BC7619B_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sq20141124.hwr_prodlm.7BC7619B.zip" ],
+      "compressed_size": 9791682,
+      "download_packing_scheme": "zip",
+      "size": 22681256
+    },
+
+   {
+      "name": "sr20141126_hwr_prodlm_A958C387_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sr20141126.hwr_prodlm.A958C387.zip" ],
+      "compressed_size": 8770589,
+      "download_packing_scheme": "zip",
+      "size": 19772561
+    },
+
+   {
+      "name": "su20141124_hwr_prodlm_141F372C_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/su20141124.hwr_prodlm.141F372C.zip" ],
+      "compressed_size": 5724482,
+      "download_packing_scheme": "zip",
+      "size": 13623459
+    },
+
+   {
+      "name": "sv20141124_hwr_prodlm_FF4E0773_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sv20141124.hwr_prodlm.FF4E0773.zip" ],
+      "compressed_size": 10549261,
+      "download_packing_scheme": "zip",
+      "size": 25048003
+    },
+
+   {
+      "name": "sw20141124_hwr_prodlm_1360CF27_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sw20141124.hwr_prodlm.1360CF27.zip" ],
+      "compressed_size": 7709623,
+      "download_packing_scheme": "zip",
+      "size": 17826495
+    },
+
+   {
+      "name": "tamil20151106_bundle_hwr_prodlm_B7828022_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/tamil20151106.bundle.hwr_prodlm.B7828022.zip" ],
+      "compressed_size": 8515753,
+      "download_packing_scheme": "zip",
+      "size": 14928900
+    },
+
+   {
+      "name": "telugu20150213_bundle_hwr_prodlm_01D080BB_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/telugu20150213.bundle.hwr_prodlm.01D080BB.zip" ],
+      "compressed_size": 7531608,
+      "download_packing_scheme": "zip",
+      "size": 12725222
+    },
+
+   {
+      "name": "tg20160222_hwr_prodlm_222F0C49_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/tg20160222.hwr_prodlm.222F0C49.zip" ],
+      "compressed_size": 7907803,
+      "download_packing_scheme": "zip",
+      "size": 17349719
+    },
+
+   {
+      "name": "thai20151106_bundle_hwr_prodlm_F6F29777_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/thai20151106.bundle.hwr_prodlm.F6F29777.zip" ],
+      "compressed_size": 7612645,
+      "download_packing_scheme": "zip",
+      "size": 13208234
+    },
+
+   {
+      "name": "ti20170501_hwr_prodlm_9E04E443_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ti20170501.hwr_prodlm.9E04E443.zip" ],
+      "compressed_size": 7748330,
+      "download_packing_scheme": "zip",
+      "size": 15151291
+    },
+
+   {
+      "name": "tl20141124_hwr_prodlm_E6975CAD_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/tl20141124.hwr_prodlm.E6975CAD.zip" ],
+      "compressed_size": 8963233,
+      "download_packing_scheme": "zip",
+      "size": 21185629
+    },
+
+   {
+      "name": "tr20141124_hwr_prodlm_2C5182C3_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/tr20141124.hwr_prodlm.2C5182C3.zip" ],
+      "compressed_size": 10226350,
+      "download_packing_scheme": "zip",
+      "size": 24096140
+    },
+
+   {
+      "name": "uk20141126_hwr_prodlm_2E191D3E_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/uk20141126.hwr_prodlm.2E191D3E.zip" ],
+      "compressed_size": 9850918,
+      "download_packing_scheme": "zip",
+      "size": 22834216
+    },
+
+   {
+      "name": "ur20150605_hwr_prodlm_133B594E_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ur20150605.hwr_prodlm.133B594E.zip" ],
+      "compressed_size": 8927968,
+      "download_packing_scheme": "zip",
+      "size": 19256447
+    },
+
+   {
+      "name": "uz20160222_hwr_prodlm_190E19C8_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/uz20160222.hwr_prodlm.190E19C8.zip" ],
+      "compressed_size": 8150913,
+      "download_packing_scheme": "zip",
+      "size": 17902799
+    },
+
+   {
+      "name": "vietnamese20150313_bundle_hwr_prodlm_0991DE3C_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/vietnamese20150313.bundle.hwr_prodlm.0991DE3C.zip" ],
+      "compressed_size": 7711655,
+      "download_packing_scheme": "zip",
+      "size": 13774970
+    },
+
+   {
+      "name": "xh20141124_hwr_prodlm_D4AA8F94_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/xh20141124.hwr_prodlm.D4AA8F94.zip" ],
+      "compressed_size": 7475802,
+      "download_packing_scheme": "zip",
+      "size": 16279002
+    },
+
+   {
+      "name": "zh-cn20150127_hwr_prodlm_3AD5E858_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/zh-cn20150127.hwr_prodlm.3AD5E858.zip" ],
+      "compressed_size": 10032451,
+      "download_packing_scheme": "zip",
+      "size": 16484721
+    },
+
+   {
+      "name": "zh-hk20150127_hwr_prodlm_0E67AB84_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/zh-hk20150127.hwr_prodlm.0E67AB84.zip" ],
+      "compressed_size": 11441168,
+      "download_packing_scheme": "zip",
+      "size": 17521928
+    },
+
+   {
+      "name": "zh-tw20150127_hwr_prodlm_94D7FCE1_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/zh-tw20150127.hwr_prodlm.94D7FCE1.zip" ],
+      "compressed_size": 10004160,
+      "download_packing_scheme": "zip",
+      "size": 16525326
+    },
+
+   {
+      "name": "zu20141124_hwr_prodlm_7DB44DFD_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/zu20141124.hwr_prodlm.7DB44DFD.zip" ],
+      "compressed_size": 4121362,
+      "download_packing_scheme": "zip",
+      "size": 9252640
+    },
+
+   {
+      "name": "arabic20150605_bundle_85FD9C82_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/arabic20150605.bundle.85FD9C82.zip" ],
+      "compressed_size": 336768,
+      "download_packing_scheme": "zip",
+      "size": 666721
+    },
+
+   {
+      "name": "armenian20161207_bundle_DCB21FA4_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/armenian20161207.bundle.DCB21FA4.zip" ],
+      "compressed_size": 380861,
+      "download_packing_scheme": "zip",
+      "size": 634708
+    },
+
+   {
+      "name": "bengali20150318_bundle_931F883D_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/bengali20150318.bundle.931F883D.zip" ],
+      "compressed_size": 558118,
+      "download_packing_scheme": "zip",
+      "size": 963175
+    },
+
+   {
+      "name": "chinese20160216_bundle_CCBF9D78_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/chinese20160216.bundle.CCBF9D78.zip" ],
+      "compressed_size": 1129270,
+      "download_packing_scheme": "zip",
+      "size": 1849969
+    },
+
+   {
+      "name": "cyrillic20160609_bundle_0EDD899F_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/cyrillic20160609.bundle.0EDD899F.zip" ],
+      "compressed_size": 343327,
+      "download_packing_scheme": "zip",
+      "size": 658219
+    },
+
+   {
+      "name": "devanagari20150224_bundle_FA57D951_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/devanagari20150224.bundle.FA57D951.zip" ],
+      "compressed_size": 685142,
+      "download_packing_scheme": "zip",
+      "size": 1277867
+    },
+
+   {
+      "name": "ethiopic20170501_bundle_A3992468_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/ethiopic20170501.bundle.A3992468.zip" ],
+      "compressed_size": 429997,
+      "download_packing_scheme": "zip",
+      "size": 691305
+    },
+
+   {
+      "name": "georgian20161104_bundle_1A5D52B4_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/georgian20161104.bundle.1A5D52B4.zip" ],
+      "compressed_size": 349717,
+      "download_packing_scheme": "zip",
+      "size": 629867
+    },
+
+   {
+      "name": "greek20151106_bundle_BEA40DE3_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/greek20151106.bundle.BEA40DE3.zip" ],
+      "compressed_size": 374227,
+      "download_packing_scheme": "zip",
+      "size": 641958
+    },
+
+   {
+      "name": "gujarati20160608_bundle_06937FDE_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/gujarati20160608.bundle.06937FDE.zip" ],
+      "compressed_size": 456746,
+      "download_packing_scheme": "zip",
+      "size": 739049
+    },
+
+   {
+      "name": "hebrew20160614_bundle_9FCB0CA9_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/hebrew20160614.bundle.9FCB0CA9.zip" ],
+      "compressed_size": 358815,
+      "download_packing_scheme": "zip",
+      "size": 630633
+    },
+
+   {
+      "name": "japanese20150330_bundle_9CCBA148_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/japanese20150330.bundle.9CCBA148.zip" ],
+      "compressed_size": 670958,
+      "download_packing_scheme": "zip",
+      "size": 1077786
+    },
+
+   {
+      "name": "kannada20160609_bundle_A606965B_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/kannada20160609.bundle.A606965B.zip" ],
+      "compressed_size": 486986,
+      "download_packing_scheme": "zip",
+      "size": 796198
+    },
+
+   {
+      "name": "khmer20160609_bundle_F0A3FFF4_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/khmer20160609.bundle.F0A3FFF4.zip" ],
+      "compressed_size": 712240,
+      "download_packing_scheme": "zip",
+      "size": 1372753
+    },
+
+   {
+      "name": "korean20150408_bundle_E1879758_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/korean20150408.bundle.E1879758.zip" ],
+      "compressed_size": 653007,
+      "download_packing_scheme": "zip",
+      "size": 1145599
+    },
+
+   {
+      "name": "lao20150304_bundle_2594E98A_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/lao20150304.bundle.2594E98A.zip" ],
+      "compressed_size": 402461,
+      "download_packing_scheme": "zip",
+      "size": 753690
+    },
+
+   {
+      "name": "latin20160108_bundle_E7D26D14_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/latin20160108.bundle.E7D26D14.zip" ],
+      "compressed_size": 311404,
+      "download_packing_scheme": "zip",
+      "size": 669934
+    },
+
+   {
+      "name": "malayalam20150904_bundle_360FE6E7_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/malayalam20150904.bundle.360FE6E7.zip" ],
+      "compressed_size": 485842,
+      "download_packing_scheme": "zip",
+      "size": 926805
+    },
+
+   {
+      "name": "myanmar20151104_bundle_DD804894_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/myanmar20151104.bundle.DD804894.zip" ],
+      "compressed_size": 498822,
+      "download_packing_scheme": "zip",
+      "size": 831497
+    },
+
+   {
+      "name": "odia20160608_bundle_EE9F2FE3_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/odia20160608.bundle.EE9F2FE3.zip" ],
+      "compressed_size": 541011,
+      "download_packing_scheme": "zip",
+      "size": 873187
+    },
+
+   {
+      "name": "punjabi20160608_bundle_C4ECD499_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/punjabi20160608.bundle.C4ECD499.zip" ],
+      "compressed_size": 408397,
+      "download_packing_scheme": "zip",
+      "size": 708253
+    },
+
+   {
+      "name": "sinhala20151106_bundle_1F0B9A24_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/sinhala20151106.bundle.1F0B9A24.zip" ],
+      "compressed_size": 620603,
+      "download_packing_scheme": "zip",
+      "size": 1044129
+    },
+
+   {
+      "name": "tamil20151106_bundle_AAF0CF4C_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/tamil20151106.bundle.AAF0CF4C.zip" ],
+      "compressed_size": 643740,
+      "download_packing_scheme": "zip",
+      "size": 1174993
+    },
+
+   {
+      "name": "telugu20150213_bundle_9E5F387F_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/telugu20150213.bundle.9E5F387F.zip" ],
+      "compressed_size": 460277,
+      "download_packing_scheme": "zip",
+      "size": 750904
+    },
+
+   {
+      "name": "thai20151106_bundle_FB224E91_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/thai20151106.bundle.FB224E91.zip" ],
+      "compressed_size": 390672,
+      "download_packing_scheme": "zip",
+      "size": 666629
+    },
+
+   {
+      "name": "vietnamese20150313_bundle_BBAF589A_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/vietnamese20150313.bundle.BBAF589A.zip" ],
+      "compressed_size": 402252,
+      "download_packing_scheme": "zip",
+      "size": 649653
+    },
+
+   {
+      "name": "latin20160108_bundle_wordlist_CEDD50DD_zip",
+      "download_urls": [ "https://dl.google.com/handwriting/models/latin20160108.bundle.wordlist.CEDD50DD.zip" ],
+      "compressed_size": 14086,
+      "download_packing_scheme": "zip",
+      "size": 36791
+    }
+  ]
+}

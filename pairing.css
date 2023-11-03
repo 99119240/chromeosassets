@@ -1,0 +1,292 @@
+/**
+ * This stylesheet follows the specification defined at
+ * [ http://go/easyunlock-spec ], with modifications defined in
+ *     [ http://crbug.com/406148#c25 ]
+ *     [ http://crbug.com/621815 ]
+ */
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  margin: 0;
+  text-align: left;
+}
+
+.no-focus-outline * {
+  outline: none;
+}
+
+a {
+  cursor: pointer;
+}
+
+button {
+  background: #5d9aff;
+  border: 1px solid #518afc;
+  border-radius: 2px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  font: normal 12px "Noto Sans";
+  /* height = [line height] + [border height] = 29px + 2px */
+  min-height: 31px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  /* The transition duration is equal to double the fade animation duration, to
+   * cover the sum of the fade-out and fade-in times. */
+  transition-duration: 400ms;
+  transition-property: background-position, padding, opacity;
+  transition-timing-function: ease-in;
+}
+
+button[disabled] {
+  opacity: 0.5;
+}
+
+[hidden] {
+  display: none !important;
+}
+
+#dialog-header {
+  background: #485f6a;
+  height: 153px;
+  padding: 0 20px;
+}
+
+#drag-region {
+  -webkit-app-region: drag;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+
+#dialog-header p {
+  margin: 0;
+  padding: 0;
+}
+
+#close-button {
+  -webkit-app-region: no-drag;
+  -webkit-margin-end: 5px;
+  -webkit-margin-start: auto;
+  background-image: -webkit-image-set(
+    url(../assets/100/black_topbar_button_close.png) 1x,
+    url(../assets/200/black_topbar_button_close.png) 2x);
+  color: #ffffff;
+  cursor: pointer;
+  height: 32px;
+  margin-top: 5px;
+  width: 32px;
+}
+
+#close-button:hover {
+  opacity: 0.5;
+}
+
+#header-title {
+  color: #ffffff;
+  font-size: 15px;
+  /* Bring the bounding box up to the baseline, rather than extending down to
+   * the descender height. */
+  margin-bottom: -4px;
+  /* The padding above should be 30dp, measured between the edge of the window
+   * and the title font's x-height.
+   * Calculated as:
+   *   [target padding] - ([line height] - [below-baseline height] - [x-height])
+   *       = calc(30px - (18px - 4px - 1ex)) */
+  padding-top: 24px;
+}
+
+#header-text {
+  /* The margin above should be 30dp, measured between the title's baseline and
+   * the text font's x-height.
+   * Calculated as:
+   *   [target padding] - ([line height] - [below-baseline height] - [x-height])
+   *       = calc(30px - (18px - 5px - 1ex)) */
+  margin-top: 23px;
+}
+
+#header-text,
+#header-text a {
+  color: #a9c8d7;
+}
+
+#dialog-contents {
+  display: flex;
+}
+
+#pairing-image-container {
+  height: 170px;
+  margin-left: 20px;
+  margin-right: 33px;
+  margin-top: 25px;
+  position: relative;
+  width: 200px;
+}
+
+#pairing-image-phone,
+#pairing-image-laptop,
+#pairing-image-holder {
+  background-repeat: no-repeat;
+  position: absolute;
+}
+
+#pairing-image-phone {
+  height: 77px;
+  left: 117px;
+  top: 83px;
+  width: 50px;
+  z-index: 2;
+}
+
+#pairing-image-laptop {
+  height: 85px;
+  left: 25px;
+  top: 54px;
+  width: 150px;
+  z-index: 1;
+}
+
+#pairing-image-holder {
+  height: 100%;
+  width: 100%;
+  z-index: 3;
+}
+
+#pairing-step-wrapper {
+  -webkit-padding-end: 43px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding-top: 43px;
+}
+
+#pairing-step {
+  flex: 1;
+  text-align: center;
+}
+
+#pairing-title {
+  color: #525252;
+  font-size: 15px;
+  min-height: 18px;
+}
+
+.device-name {
+  whitespace: no-wrap;
+}
+
+#pairing-link {
+  color: #5595fe;
+  text-decoration: none;
+}
+
+#pairing-link:active {
+  border: none;
+}
+
+#pair-progress {
+  line-height: 0;
+  margin: 10px 195px 0;
+  position: absolute;
+}
+
+.progress-image-empty,
+.progress-image-full {
+  float: left;
+  height: 6px;
+  margin: 0 2px;
+  width: 6px;
+}
+
+.progress-image-empty {
+  background-image: -webkit-image-set(
+    url(../assets/100/progress_dot_empty.png) 1x,
+    url(../assets/200/progress_dot_empty.png) 2x);
+}
+
+.progress-image-full {
+  background-image: -webkit-image-set(
+    url(../assets/100/progress_dot_filled.png) 1x,
+    url(../assets/200/progress_dot_filled.png) 2x);
+}
+
+#pairing-button {
+  /* For animation purposes, start with the background set, but just outside the
+   * bounds of the button. */
+  background-image: -webkit-image-set(
+    url(../assets/100/bluetooth.png) 1x,
+    url(../assets/200/bluetooth.png) 2x);
+  background-position: -11px center;
+  background-repeat: no-repeat;
+  margin: 7px 0;
+  width: 154px;
+}
+
+#pairing-button.decorated-with-bluetooth-icon {
+  background-position: 8px;
+  /* The padding is set to provide 8px of buffer around the 11px-wide
+   * bluetooth.png icon. */
+  padding: 7px 27px;
+}
+
+/* Animations for the animated ellipsis: */
+.animated-ellipsis-component0 {
+  -webkit-animation: ellipsis-component0 1.5s infinite;
+}
+
+@-webkit-keyframes ellipsis-component0 {
+  0% { opacity: 0; }
+  25% { opacity: 1; }
+  50% { opacity: 1; }
+  75% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+.animated-ellipsis-component1 {
+  -webkit-animation: ellipsis-component1 1.5s infinite;
+}
+
+@-webkit-keyframes ellipsis-component1 {
+  0% { opacity: 0; }
+  25% { opacity: 0; }
+  50% { opacity: 1; }
+  75% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+.animated-ellipsis-component2 {
+  -webkit-animation: ellipsis-component2 1.5s infinite;
+}
+
+@-webkit-keyframes ellipsis-component2 {
+  0% { opacity: 0; }
+  25% { opacity: 0; }
+  50% { opacity: 0; }
+  75% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+/* Animations for the fading transitions: */
+.animated-fade-out {
+  -webkit-animation: fade-out 200ms ease-in;
+}
+
+@-webkit-keyframes fade-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+.animated-fade-in {
+  -webkit-animation: fade-in 200ms ease-in;
+}
+
+@-webkit-keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}

@@ -1,0 +1,2806 @@
+{
+  "packs": [
+    {
+      "checksum": "a4c1f65ef1bad3102c3a34a1219b853b4a10836f0870b953fc140d567a220e18",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/a4c1f65ef1bad310_ar_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "16ec0d309181f64f848472754d36eef3ba17bb8863567106fca75058559599ca",
+          "name": "main.dict",
+          "size": 6907151
+        }
+      ],
+      "locale": "ar",
+      "name": "ar_2021121500.zip",
+      "size": 5864667,
+      "version": 2021121500
+    },
+    {
+      "checksum": "2280e47a9ced403e5aa311414b49b20618abe1507fa710870b408be64314845e",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/2280e47a9ced403e_ar-ae_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "3d656a61b8f97dd5777aa84d8cc4c78ef37f6376b413945ea94daf89c5ddc77f",
+          "name": "main.dict",
+          "size": 330376
+        }
+      ],
+      "locale": "ar-AE",
+      "name": "ar-ae_2021121500.zip",
+      "size": 231532,
+      "version": 2021121500
+    },
+    {
+      "checksum": "4622a991de0aea325872e2b2d5fe85c09d1c458e5f416996a3953c1f31e9a47f",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/4622a991de0aea32_ar-bh_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "19454ca06a225e32877521f5d96b48c2d1d7537eb93c15cbc4fb097b0b62c914",
+          "name": "main.dict",
+          "size": 467776
+        }
+      ],
+      "locale": "ar-BH",
+      "name": "ar-bh_2021121500.zip",
+      "size": 341915,
+      "version": 2021121500
+    },
+    {
+      "checksum": "73bb36e25bef4cd3dcc2d4d6b9c66f4d05b399225db131db85d0e33395fa35d3",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/73bb36e25bef4cd3_ar-dz_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "3bd2707626f58288e6a5739dff009fe50a0901e6d20190cd1bc976b9fb450a4c",
+          "name": "main.dict",
+          "size": 720096
+        }
+      ],
+      "locale": "ar-DZ",
+      "name": "ar-dz_2021121500.zip",
+      "size": 521532,
+      "version": 2021121500
+    },
+    {
+      "checksum": "a1000ef8d215949674f1aed1bed0cca0dd0a5715b03171f3d276f4b68d4793d3",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/a1000ef8d2159496_ar-iq_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "f0eb88d7db1516abdb9df81549187d434f879c29cfd38e2f6e6ac9f485df13c5",
+          "name": "main.dict",
+          "size": 1151640
+        }
+      ],
+      "locale": "ar-IQ",
+      "name": "ar-iq_2021120100.zip",
+      "size": 866482,
+      "version": 2021120100
+    },
+    {
+      "checksum": "5675fddbf988fa0efc0eaadcbd1352583a1529817b7cd6cbfdf0aa0c7500638c",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/5675fddbf988fa0e_ar-ly_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "2ff7b645744699426dad6de2951312b7e1b4305431118e2a483bbb6e787ab99d",
+          "name": "main.dict",
+          "size": 669408
+        }
+      ],
+      "locale": "ar-LY",
+      "name": "ar-ly_2021120100.zip",
+      "size": 488795,
+      "version": 2021120100
+    },
+    {
+      "checksum": "c918329399c40fccd811981322a4a5ffb858c5345f3826cdbb9f7c94a5f85c9a",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/c918329399c40fcc_ar-ma_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "3131cb3f7c11288a77e8df2ef500f076d2cd9aa69369e9b59ff245286efa6e6a",
+          "name": "main.dict",
+          "size": 6508280
+        }
+      ],
+      "locale": "ar-MA",
+      "name": "ar-ma_2021121500.zip",
+      "size": 5506537,
+      "version": 2021121500
+    },
+    {
+      "checksum": "60ca0450415b635ac9158cad3a1e5b7ecd0ac5f6fac1d6bedf3b413df036521b",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/60ca0450415b635a_ar-mr_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "1de3174ab025e911f5407c8b00610a7a24b68cc20bddc29964e1ed8e86f17c2a",
+          "name": "main.dict",
+          "size": 475688
+        }
+      ],
+      "locale": "ar-MR",
+      "name": "ar-mr_2021120100.zip",
+      "size": 355172,
+      "version": 2021120100
+    },
+    {
+      "checksum": "22db62bf0bb75f2c75a3a29996613dc5bc398e8053b632aea3d80df19071e25f",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/22db62bf0bb75f2c_ar-om_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "2573b2d15a86a964748b6497ced3a281856361999fe64bd9935af9baeee43eb4",
+          "name": "main.dict",
+          "size": 505248
+        }
+      ],
+      "locale": "ar-OM",
+      "name": "ar-om_2021120100.zip",
+      "size": 366884,
+      "version": 2021120100
+    },
+    {
+      "checksum": "2da0ab74265a41ddbf80d7b8621c0032ad7dfb4d1c91e342a6c714ac05086dcf",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/2da0ab74265a41dd_ar-sa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "913115675947814027c78badbb9d464dd01cb97b0de93a7b9f375e31fa67216d",
+          "name": "main.dict",
+          "size": 723608
+        }
+      ],
+      "locale": "ar-SA",
+      "name": "ar-sa_2021120100.zip",
+      "size": 532743,
+      "version": 2021120100
+    },
+    {
+      "checksum": "17413d7f241ed0e3164b88e1fda455e1c4f819f1b20b8536fe995b35a6ff9f28",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/17413d7f241ed0e3_ar-sd_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "d6e0862865d4c51a6d015a1434db05dfe5136391ae6acf21a11e7088cb1583db",
+          "name": "main.dict",
+          "size": 849640
+        }
+      ],
+      "locale": "ar-SD",
+      "name": "ar-sd_2021120100.zip",
+      "size": 633977,
+      "version": 2021120100
+    },
+    {
+      "checksum": "ba6cf149ad190c1bc8a39078c8c9a9652619573b364e71d606856666f322084c",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/ba6cf149ad190c1b_ar-td_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "613ef1c13133beeb12d5e6200697499e33ee9cbf6ee93056a43d3ea01fe3809a",
+          "name": "main.dict",
+          "size": 880408
+        }
+      ],
+      "locale": "ar-TD",
+      "name": "ar-td_2021120100.zip",
+      "size": 578402,
+      "version": 2021120100
+    },
+    {
+      "checksum": "c4742359b95c460c0194db149dccdbbb528d3e5bb61555b6e80d47538337a915",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/c4742359b95c460c_ar-tn_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "8a89a4cf74e2952331fee7b8bf9b92e3f98df3a0977d52fbe0ff2276a958341c",
+          "name": "main.dict",
+          "size": 402656
+        }
+      ],
+      "locale": "ar-TN",
+      "name": "ar-tn_2021120100.zip",
+      "size": 288520,
+      "version": 2021120100
+    },
+    {
+      "checksum": "e29572ed8b021819e84598d8276ca2e4b6ff3552cbae6b19c0e12859f406afec",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/e29572ed8b021819_ar-xc_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "6c0bacce9b4fe9825c7c5bea43c8ea9b2c1746bbd4fafe6fcc03aae39f9e5d15",
+          "name": "main.dict",
+          "size": 1468864
+        }
+      ],
+      "locale": "ar-XC",
+      "name": "ar-xc_2021121500.zip",
+      "size": 1106410,
+      "version": 2021121500
+    },
+    {
+      "checksum": "b0bccb0ac20ecac5cc8104f45b34742179c90cb1a7458bf4cc9552d7e867901a",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/b0bccb0ac20ecac5_ar_xt_20181214.zip"
+      ],
+      "files": [
+        {
+          "checksum": "fef4c154906df35a09d816d687fa59d84093ac9c0c10179c94acf00a2cb00582",
+          "name": "main.dict",
+          "size": 8598572
+        }
+      ],
+      "locale": "ar-XT",
+      "name": "ar_xt_20181214.zip",
+      "size": 4695395,
+      "version": 20181214
+    },
+    {
+      "checksum": "354bf70806d527195131bb0448ca72fe6a7ecb580e0595e31fd6098f8afe5984",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/354bf70806d52719_ar-ye_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "7391de511524d10eddc0e8c4c39dedade0d1c4c8594af3cbe9224cf02a69adf3",
+          "name": "main.dict",
+          "size": 406000
+        }
+      ],
+      "locale": "ar-YE",
+      "name": "ar-ye_2021120100.zip",
+      "size": 288175,
+      "version": 2021120100
+    },
+    {
+      "checksum": "4fe0294262fdbf6516e32cf2c302081e2568e2455bfc0bf50702c2412c97755f",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/4fe0294262fdbf65_bn-bd_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "093318adc842d79057707bf4589184d2e11f71c7b1f2add8ef6bb1868ebf8ca5",
+          "name": "main.dict",
+          "size": 7230528
+        }
+      ],
+      "locale": "bn-BD",
+      "name": "bn-bd_2021121500.zip",
+      "size": 6040526,
+      "version": 2021121500
+    },
+    {
+      "checksum": "b1ed6beda4d3011aeded70240374dd800967382cd4f5c663ff9fd883a3963642",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/b1ed6beda4d3011a_bn-in_2022011100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "165c81346ea62bf984c8b4e312871a29722a1e215e5bc5f8141761121469acc3",
+          "name": "main.dict",
+          "size": 7367864
+        }
+      ],
+      "locale": "bn-IN",
+      "name": "bn-in_2022011100.zip",
+      "size": 6153673,
+      "version": 2022011100
+    },
+    {
+      "checksum": "235533447af6da13e47f714da289b9bdd248cbf1be9ae6d8ae7941da80eb8f1f",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/235533447af6da13_bn-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "a9ebda1dcb18ce9e1e57779bb3913fdaaf1255695553a180a531b1384b10917d",
+          "name": "main.dict",
+          "size": 7853424
+        }
+      ],
+      "locale": "bn-XA",
+      "name": "bn-xa_2021120100.zip",
+      "size": 6612011,
+      "version": 2021120100
+    },
+    {
+      "checksum": "44e334f1ef6d133ddc494493339f5549e6ca3b1ff87f9b0d4da04f1afacb683d",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/44e334f1ef6d133d_bn-xu_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "5af1ddf771fb1037844e76b346913bf679a54cadc7cf4bc24fc32b5931b68416",
+          "name": "main.dict",
+          "size": 9669680
+        }
+      ],
+      "locale": "bn-XU",
+      "name": "bn-xu_2022020300.zip",
+      "size": 5730519,
+      "version": 2022020300
+    },
+    {
+      "checksum": "da0f4f2bad7ad96d7e5293fadca27ba52dd700cdf76ab4e4fea2e431a26e1a38",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/da0f4f2bad7ad96d_da_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "6bcb8ec34f90d9bea8d5626c584ea67f6472fd69fda9258c3d47d22566ef4597",
+          "name": "main.dict",
+          "size": 8172247
+        }
+      ],
+      "locale": "da",
+      "name": "da_2021121500.zip",
+      "size": 6875304,
+      "version": 2021121500
+    },
+    {
+      "checksum": "0d23c8cfa6084b42738291f389c0a89f6c4afee8543eff83f158af38a815dc7f",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/0d23c8cfa6084b42_de-at_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "b652f5a5d076301d2fc1d373554d862b1658f388ff086affd6e2a6aa3a1811f4",
+          "name": "main.dict",
+          "size": 7335400
+        }
+      ],
+      "locale": "de-AT",
+      "name": "de-at_2021121500.zip",
+      "size": 5871104,
+      "version": 2021121500
+    },
+    {
+      "checksum": "c76930d0ce2126bc788f5f4dd3401c39e79dd4a34e6db1ef7a0a443d03590691",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/c76930d0ce2126bc_de-be_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "ebdc2f1889f405c00d43271e60883aafb105c73e1ec79e5f795a3f214da578e4",
+          "name": "main.dict",
+          "size": 7352328
+        }
+      ],
+      "locale": "de-BE",
+      "name": "de-be_2021121500.zip",
+      "size": 5880929,
+      "version": 2021121500
+    },
+    {
+      "checksum": "350f05f8fb0c6d183726d4426de7e818c5f4b0175ba90da11f89c30f3f5ebe05",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/350f05f8fb0c6d18_de-ch_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "ce2a74699482b16aecc1c960289d874ab128a923709ebddf881952c5085e1f23",
+          "name": "main.dict",
+          "size": 7471680
+        }
+      ],
+      "locale": "de-CH",
+      "name": "de-ch_2021121500.zip",
+      "size": 5895645,
+      "version": 2021121500
+    },
+    {
+      "checksum": "8b25c386d1026c730db1f85e4785ccb02175fe84af86330324e23f58060d2b3a",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/8b25c386d1026c73_de-de_2022021700.zip"
+      ],
+      "files": [
+        {
+          "checksum": "465c9832cc854c0674545383a4bbe9e24ae5db5cae782df841908c590d89f9ab",
+          "name": "main.dict",
+          "size": 8042075
+        }
+      ],
+      "locale": "de-DE",
+      "name": "de-de_2022021700.zip",
+      "size": 6473658,
+      "version": 2022021700
+    },
+    {
+      "checksum": "4e7462b66e70802a2a3e471fd2bb49f1687fd0dd41b1d7cd40b5a8fed38a466d",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/4e7462b66e70802a_de-lu_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "311dff309536e399ed381aa6fe2bfda2c78ed97e6a5996f86a8a3a37bb1f0d93",
+          "name": "main.dict",
+          "size": 7348880
+        }
+      ],
+      "locale": "de-LU",
+      "name": "de-lu_2021121500.zip",
+      "size": 5878722,
+      "version": 2021121500
+    },
+    {
+      "checksum": "e54a26d00e8b8879acb503b987dac3fa7be3dab4ef0bea4cf24c09f23f7b3dab",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/e54a26d00e8b8879_el_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "d4fcde2ee01814188c49585e49bf624dafc0ce781e7f78de6c6de495ade9e8d3",
+          "name": "main.dict",
+          "size": 8209538
+        }
+      ],
+      "locale": "el",
+      "name": "el_2021121500.zip",
+      "size": 6753952,
+      "version": 2021121500
+    },
+    {
+      "checksum": "fa8cc7685ad34c8055b0931536f19ffa76887a3150036666c53ca59ecf691777",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/fa8cc7685ad34c80_el-cy_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "40de3e4f56cb86823fee3d73cef0fd62041476ae65549fd3b76313fd9f63995f",
+          "name": "main.dict",
+          "size": 801888
+        }
+      ],
+      "locale": "el-CY",
+      "name": "el-cy_2021120100.zip",
+      "size": 494515,
+      "version": 2021120100
+    },
+    {
+      "checksum": "3b0974246cdec065b4ae2093a9f984bd514069fa741ba18881a884a51edf5ca9",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/3b0974246cdec065_el-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "710bd849e3a4187d495d8dd958e6b238622f5d285439e8e6df1ac10cd509f2a5",
+          "name": "main.dict",
+          "size": 11622408
+        }
+      ],
+      "locale": "el-XT",
+      "name": "el-xt_2022020300.zip",
+      "size": 6463978,
+      "version": 2022020300
+    },
+    {
+      "checksum": "801379a5150ce151f40559252d881e99e73f9204f26ae37c7c78d43bc94ca598",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/801379a5150ce151_en-au_2022021700.zip"
+      ],
+      "files": [
+        {
+          "checksum": "143fdbd9e7328ef4a65062a41d8a5cf10827b36173c8d3a95d49a78661632740",
+          "name": "main.dict",
+          "size": 8013051
+        }
+      ],
+      "locale": "en-AU",
+      "name": "en-au_2022021700.zip",
+      "size": 6624684,
+      "version": 2022021700
+    },
+    {
+      "checksum": "6d4a0e03218722eaf028606f0d29650cf03855c6d35f8254eabe7178b6cf9225",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/6d4a0e03218722ea_en-ca_2022021700.zip"
+      ],
+      "files": [
+        {
+          "checksum": "74f0cf1ac2bef866c990164befcef0330eab369c7f44b00f7acaad890939008c",
+          "name": "main.dict",
+          "size": 8043091
+        }
+      ],
+      "locale": "en-CA",
+      "name": "en-ca_2022021700.zip",
+      "size": 6671460,
+      "version": 2022021700
+    },
+    {
+      "checksum": "05af11a8b10a15361661be0f6e1ce0b751e5e780ff5d5a9aa2b0e5c2b0c54e1c",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/05af11a8b10a1536_en-gb_2022021700.zip"
+      ],
+      "files": [
+        {
+          "checksum": "f61614d8f42d8cc72ac918bf14f6d7754bf6834a06a393ad586fc7f6a12a3d02",
+          "name": "main.dict",
+          "size": 7769212
+        }
+      ],
+      "locale": "en-GB",
+      "name": "en-gb_2022021700.zip",
+      "size": 6337605,
+      "version": 2022021700
+    },
+    {
+      "checksum": "f6533e0302b85f090efb6e5ed6b4004c4ae24957914e590e94ac504c3bc262f0",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/f6533e0302b85f09_en-in_2022022300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "a646671da07e60e54e69de521796cdce574fc679053ce8882f49ba470a7b5440",
+          "name": "main.dict",
+          "size": 15141518
+        }
+      ],
+      "locale": "en-IN",
+      "name": "en-in_2022022300.zip",
+      "size": 12326979,
+      "version": 2022022300
+    },
+    {
+      "checksum": "c5c88d58f669fc59160eb714d81d19ba24c0c338146e538fcb6a993ae8ecf276",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/c5c88d58f669fc59_en-ke_2022021700.zip"
+      ],
+      "files": [
+        {
+          "checksum": "ca806b13a008bc4a148b0bb9ba121cb4476693098f794a2e9a3cf8d070ea78ab",
+          "name": "main.dict",
+          "size": 8129939
+        }
+      ],
+      "locale": "en-KE",
+      "name": "en-ke_2022021700.zip",
+      "size": 6713474,
+      "version": 2022021700
+    },
+    {
+      "checksum": "c6677b22e3ebb07a93e8cf5ee7929ab6df9ed6b94841c057212ff380cd690303",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/c6677b22e3ebb07a_en-ng_2022021700.zip"
+      ],
+      "files": [
+        {
+          "checksum": "48d7fae149c650e37a3ed96a89b1925fd6025cbe264e3e785f77714e804e481d",
+          "name": "main.dict",
+          "size": 8088664
+        }
+      ],
+      "locale": "en-NG",
+      "name": "en-ng_2022021700.zip",
+      "size": 6704832,
+      "version": 2022021700
+    },
+    {
+      "checksum": "7f36bd809b645d40caa65da4ad2b532b99c94f5f7a0087bb5c44e46b337d96b4",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/7f36bd809b645d40_en-ph_2022021700.zip"
+      ],
+      "files": [
+        {
+          "checksum": "781e085ba552dbb86d188abe78900d0e1c86cbe936362120859325c55f600a4d",
+          "name": "main.dict",
+          "size": 7099160
+        }
+      ],
+      "locale": "en-PH",
+      "name": "en-ph_2022021700.zip",
+      "size": 5871684,
+      "version": 2022021700
+    },
+    {
+      "checksum": "0a3235006f7e94e6e6f94836351e3d072cd22e3a31d531c64cbd29c360ace47b",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/0a3235006f7e94e6_en-us_2022022300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "2bd9f7fe2ac868af3f81984ef79264a5693c8b707b52f908e09f317a27299c28",
+          "name": "main.dict",
+          "size": 8486272
+        }
+      ],
+      "locale": "en-US",
+      "name": "en-us_2022022300.zip",
+      "size": 6752650,
+      "version": 2022022300
+    },
+    {
+      "checksum": "b33207e3e965e4ba33402160b8275596a1892768b39c1a8d5aaf8289cfd4d1ff",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/b33207e3e965e4ba_en-840_2022092100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "2ddd2a1b0f7df6603d28e946a2f1f2634f59b2ec234a08879481a10d49629695",
+          "name": "main.dict",
+          "size": 30702832
+        }
+      ],
+      "locale": "en-840",
+      "name": "en-840_2022092100.zip",
+      "size": 22601147,
+      "version": 2022092100
+    },
+    {
+      "checksum": "5010704a2310a7bf27f9de823667aaf6266cfbbb84e164dfab5287f08d1ed885",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/5010704a2310a7bf_en-za_2022021700.zip"
+      ],
+      "files": [
+        {
+          "checksum": "70da118309ebb33c7531229425589f1dce7589669ac1aafd7771bf2ab953bc19",
+          "name": "main.dict",
+          "size": 8073109
+        }
+      ],
+      "locale": "en-ZA",
+      "name": "en-za_2022021700.zip",
+      "size": 6700923,
+      "version": 2022021700
+    },
+    {
+      "checksum": "cf1329bd0bda58e8779d615af2d5035588b696c46568d64fe074e44bfc68aff5",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/cf1329bd0bda58e8_es-419_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "e8e965f78ce29cd51806625c8c6f3d7c9b574d5e5042ffdb75fe599048bc7785",
+          "name": "main.dict",
+          "size": 8042788
+        }
+      ],
+      "locale": "es-419",
+      "name": "es-419_2021121500.zip",
+      "size": 6449268,
+      "version": 2021121500
+    },
+    {
+      "checksum": "33ae3c154932987e7cda0121745d2910182398519a3bc80d5f95abedc668275e",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/33ae3c154932987e_es-ar_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "d1bdcceecfd4c8ec873da67085f2093733413ae1aedd33e2456415d0af90710d",
+          "name": "main.dict",
+          "size": 7344664
+        }
+      ],
+      "locale": "es-AR",
+      "name": "es-ar_2021121500.zip",
+      "size": 5668574,
+      "version": 2021121500
+    },
+    {
+      "checksum": "fc0624484ec5880a4a881ab128e43caf7747f828eed7e6d6938ef24de38f7b54",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/fc0624484ec5880a_es-es_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "7712243c039b48c4206faf3e8d828c75a56cebd69e452925153f8f99e0e559a0",
+          "name": "main.dict",
+          "size": 8131510
+        }
+      ],
+      "locale": "es-ES",
+      "name": "es-es_2021121500.zip",
+      "size": 6471810,
+      "version": 2021121500
+    },
+    {
+      "checksum": "6263b91b67a439219fdcd4b9388fa5adc54815778b95d5dab297af3b19bae337",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/6263b91b67a43921_es-mx_2022022300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "84b188788a581a02aa51014a4ca4e1d8ee33090104d8d624e3783ad9c7a57e94",
+          "name": "main.dict",
+          "size": 7941943
+        }
+      ],
+      "locale": "es-MX",
+      "name": "es-mx_2022022300.zip",
+      "size": 6083313,
+      "version": 2022022300
+    },
+    {
+      "checksum": "a111b4754fc5cb4653e9763bb1b9d0533df4b8189d82a9bee5f32f7b359dd29a",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/a111b4754fc5cb46_es-us_2022022300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "b7b81c7a34e44cff7acba3df28b095c710649f13120e9b45fab3c0001ffb72c5",
+          "name": "main.dict",
+          "size": 7959232
+        }
+      ],
+      "locale": "es-US",
+      "name": "es-us_2022022300.zip",
+      "size": 6085024,
+      "version": 2022022300
+    },
+    {
+      "checksum": "0f3d96a1fa05c818869ca5beaf6d9a6b04a3ad8a99344cf7969f6f5c0e879321",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/0f3d96a1fa05c818_fa_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "583ec415c0d505cadcc427101a877111fc78673ba790eea7eb8659ce55932a63",
+          "name": "main.dict",
+          "size": 7070904
+        }
+      ],
+      "locale": "fa",
+      "name": "fa_2021121500.zip",
+      "size": 5894378,
+      "version": 2021121500
+    },
+    {
+      "checksum": "f390ad8c6030654100655eef2306d37ca1e0dc9276c975dbf6b6c4c450854f45",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/f390ad8c60306541_fa-af_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "22063626a38c8e9b1dda897a41ce247b16df787c15fb6b24aa911979d9582ee2",
+          "name": "main.dict",
+          "size": 6472072
+        }
+      ],
+      "locale": "fa-AF",
+      "name": "fa-af_2021121500.zip",
+      "size": 4996457,
+      "version": 2021121500
+    },
+    {
+      "checksum": "1467aba63bd01f63b858bd0fee3285d58a68e9ef26bccea2ce5e8763eacec9a9",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/1467aba63bd01f63_fa-xt_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "991f2ef8bd389b0d1b14df4e4a0a1261dcd5b83a0d2ff369465bc15a4b000c73",
+          "name": "main.dict",
+          "size": 9590640
+        }
+      ],
+      "locale": "fa-XT",
+      "name": "fa-xt_2021120100.zip",
+      "size": 5339696,
+      "version": 2021120100
+    },
+    {
+      "checksum": "4c0d9acf7326d6de7aafaefdd96bcd5197d33768f74876299b10b3fd31343fd5",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/4c0d9acf7326d6de_fi_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "306e245e74fd05cc574406a473e5e022863038569f24ac15b32137c64e10fd49",
+          "name": "main.dict",
+          "size": 6718416
+        }
+      ],
+      "locale": "fi",
+      "name": "fi_2021121500.zip",
+      "size": 5747722,
+      "version": 2021121500
+    },
+    {
+      "checksum": "c671a6280dad20851d83b78f88c0878d3cf032d7e16eb21647aef16d78544f48",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/c671a6280dad2085_fr-002_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "ef903750e47c6dad8fd2b9342bdaba00242b0e647897030810829ff9307e21ff",
+          "name": "main.dict",
+          "size": 7047040
+        }
+      ],
+      "locale": "fr-002",
+      "name": "fr-002_2021121500.zip",
+      "size": 5603129,
+      "version": 2021121500
+    },
+    {
+      "checksum": "031bd48d39bf013e23c6d137121a9a6b92e1524ce6c3bc7d70149d54ac2630b5",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/031bd48d39bf013e_fr-be_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "54a7d78744e457973fa1713de302713489c0b9fdea2b02ac8c61ae958e90c817",
+          "name": "main.dict",
+          "size": 7000176
+        }
+      ],
+      "locale": "fr-BE",
+      "name": "fr-be_2021121500.zip",
+      "size": 5833240,
+      "version": 2021121500
+    },
+    {
+      "checksum": "407f6680178a20694d25c7461e724f7d98338fcfe5bd3f4b2a3a137175ae12e6",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/407f6680178a2069_fr-ca_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "77d30eb4506b541dd435ea876c7c32957bce8cf4cfb61408a894d10b1e016f73",
+          "name": "main.dict",
+          "size": 7265952
+        }
+      ],
+      "locale": "fr-CA",
+      "name": "fr-ca_2021121500.zip",
+      "size": 5809226,
+      "version": 2021121500
+    },
+    {
+      "checksum": "e49a77c27d09308e20a6cf5ae207ebe51cf7144fc09577551daa9e1c963a563a",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/e49a77c27d09308e_fr-ch_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "f786e5ec9647324f4a62f8687925414b863b1ff90d44b96feb656611d7630c14",
+          "name": "main.dict",
+          "size": 7221552
+        }
+      ],
+      "locale": "fr-CH",
+      "name": "fr-ch_2021121500.zip",
+      "size": 5775576,
+      "version": 2021121500
+    },
+    {
+      "checksum": "52eda517b2463113957d5976b87ddfaa98573b1df9a4d2dc4537cd5dd8a8ac23",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/52eda517b2463113_fr-fr_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "0712ee4be3396bf58ac03344b531fa1b02cafcab8d52f58f2e0ba4c17dfa1cca",
+          "name": "main.dict",
+          "size": 8307409
+        }
+      ],
+      "locale": "fr-FR",
+      "name": "fr-fr_2021121500.zip",
+      "size": 6650352,
+      "version": 2021121500
+    },
+    {
+      "checksum": "f83d4ee24b65c34e5180d29dd15743fd11b24b212ae00ca0b365519ef3889c01",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/f83d4ee24b65c34e_gu_2022011100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "e5ba3e9201829346b56714187488d4f7a50c04b08ad5eaa9b9a0f0b87107ffeb",
+          "name": "main.dict",
+          "size": 6914632
+        }
+      ],
+      "locale": "gu",
+      "name": "gu_2022011100.zip",
+      "size": 5797434,
+      "version": 2022011100
+    },
+    {
+      "checksum": "d96e3b3fdb6c61ca0674aa728b028f71a9891cc07bd3efb663be14980a20253b",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/d96e3b3fdb6c61ca_gu-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "d78053842c1906ca0f10165e39fb7a996294fbfc34c0c9bc7fa33bfa63b75385",
+          "name": "main.dict",
+          "size": 7347080
+        }
+      ],
+      "locale": "gu-XA",
+      "name": "gu-xa_2021120100.zip",
+      "size": 6152977,
+      "version": 2021120100
+    },
+    {
+      "checksum": "85066987e6a439fb913c74593cad0875d2b92730d0ee50d8e6eddd0cd634b33a",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/85066987e6a439fb_gu-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "45293dd0c7bc667362185adf6e2b1f155238a23265acfab09bc91621dfa2bbd3",
+          "name": "main.dict",
+          "size": 9217256
+        }
+      ],
+      "locale": "gu-XT",
+      "name": "gu-xt_2022020300.zip",
+      "size": 5462026,
+      "version": 2022020300
+    },
+    {
+      "checksum": "8dcb517b89eed52293d0acc5f1f1ee1a02c6f929d5a457e6a64d3c90b1df7d5b",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/8dcb517b89eed522_he_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "8be20139f5345a6066c7c11c4111755522ff8d087c98a409084ce7cf29c7d95e",
+          "name": "main.dict",
+          "size": 6910006
+        }
+      ],
+      "locale": "he",
+      "name": "he_2021121500.zip",
+      "size": 5745883,
+      "version": 2021121500
+    },
+    {
+      "checksum": "a7c6c5f73bb36649cb06bc6841c9fe7758094f7cc5de6dfc6eb26ef53d7d173e",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/a7c6c5f73bb36649_he_xt_20181214.zip"
+      ],
+      "files": [
+        {
+          "checksum": "60e81ee2f0076c669c9308dba43c2506062b0b20db37cf02b7a0a399e67768e0",
+          "name": "main.dict",
+          "size": 6540904
+        }
+      ],
+      "locale": "he-XT",
+      "name": "he_xt_20181214.zip",
+      "size": 3708012,
+      "version": 20181214
+    },
+    {
+      "checksum": "d4178a483a03fba99719b17c56c72f38300e59357b0e0b30bc0e9d319cfb94f4",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/d4178a483a03fba9_hi_2022011100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "3a845b1c06f233b7133049e4a88314edb73e74bdaec769db7024d5120efd5b0d",
+          "name": "main.dict",
+          "size": 7502432
+        }
+      ],
+      "locale": "hi",
+      "name": "hi_2022011100.zip",
+      "size": 6219738,
+      "version": 2022011100
+    },
+    {
+      "checksum": "e46ccc8014631a74cfb96f4bc99e955f33963110dd634889078a0448b7f651ae",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/e46ccc8014631a74_hi-xa_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "3794539475c88a96775141977438b5f9b9e9a361f3dadd3a56ca811fdf4a83a7",
+          "name": "main.dict",
+          "size": 6816424
+        }
+      ],
+      "locale": "hi-XA",
+      "name": "hi-xa_2021121500.zip",
+      "size": 5576364,
+      "version": 2021121500
+    },
+    {
+      "checksum": "5e6645beadcdb854e449823d4cf0268bf5a8bdbfd7162aed851e3cdc716a9ec8",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/5e6645beadcdb854_hi-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "131772c36e5d04a6e20a3c1e23e5068cfe1eec536c598156656f3a1c6fb8cb99",
+          "name": "main.dict",
+          "size": 8193296
+        }
+      ],
+      "locale": "hi-XT",
+      "name": "hi-xt_2022020300.zip",
+      "size": 4340881,
+      "version": 2022020300
+    },
+    {
+      "checksum": "968f2fb360d19c065e88a3f42521eadf1fed3f0d9c94fd8a6ef16110331c7c14",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/968f2fb360d19c06_it-ch_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "5211e0e1f6f3caf1d1c51e97c633dcd621e3c02221b5d28485fe4755b57d2caf",
+          "name": "main.dict",
+          "size": 6920656
+        }
+      ],
+      "locale": "it-CH",
+      "name": "it-ch_2021121500.zip",
+      "size": 5499523,
+      "version": 2021121500
+    },
+    {
+      "checksum": "4baa6ae17dc7909f8462e0c042a0c532cb18f2b306d16093755695b1c6fcae84",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/4baa6ae17dc7909f_it-it_2022022500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "cd399c8128eddcf514a0754eb05253d12e9e1e58262bd1e978b10a268db9599f",
+          "name": "main.dict",
+          "size": 9931403
+        }
+      ],
+      "locale": "it-IT",
+      "name": "it-it_2022022500.zip",
+      "size": 7857712,
+      "version": 2022022500
+    },
+    {
+      "checksum": "48d4d136d8db943d98db957fb5fda630900458243308c7e9081d6c0ef4f3f921",
+      "download_urls": [
+        "https://dl.google.com/dl/edgedl/japanese-ime/dictionary/24/mozcdata-24.10.9.zip"
+      ],
+      "files": [
+        {
+          "checksum": "f2f4417926a6d4c13e3b6444b892e77573ddb4069a99071111e735fe458afe61",
+          "name": "mozcdata-24.10.9.data",
+          "size": 45469818
+        }
+      ],
+      "locale": "ja",
+      "name": "mozcdata-24.10.9.zip",
+      "size": 33650525,
+      "version": 2021040609
+    },
+    {
+      "checksum": "e3e2fff1aa496617879782e6c3b77d8a196e9c511dc6a3e2a37148d7339bdda6",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/e3e2fff1aa496617_kn-in_2022011100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "2b469761dd4d5e59a3d8b2056712fed1da32ff9ce3e130ee0a85918fc8c40e4c",
+          "name": "main.dict",
+          "size": 8729224
+        }
+      ],
+      "locale": "kn-IN",
+      "name": "kn-in_2022011100.zip",
+      "size": 7407338,
+      "version": 2022011100
+    },
+    {
+      "checksum": "a737e344df5e566c8dfad2b86d34135a2e04c0b0bff0966900368d276c650aad",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/a737e344df5e566c_kn-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "09d3fbb20a23a222b303d5212cdf6817fc5b5b4df6e37d4612cbba2c6f4f83c5",
+          "name": "main.dict",
+          "size": 7638176
+        }
+      ],
+      "locale": "kn-XA",
+      "name": "kn-xa_2021120100.zip",
+      "size": 6484508,
+      "version": 2021120100
+    },
+    {
+      "checksum": "61f18aebdfe88ff3c6b4cbfdb5d668ba091d183fe04d7d78fd10e92d637bc07d",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/61f18aebdfe88ff3_kn-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "6e64e68c755c9d70b7cd8a984fa2d26b722b3ae2e2a97855d54a267f86b3c43f",
+          "name": "main.dict",
+          "size": 10852680
+        }
+      ],
+      "locale": "kn-XT",
+      "name": "kn-xt_2022020300.zip",
+      "size": 6454065,
+      "version": 2022020300
+    },
+    {
+      "checksum": "67838b4ff9d79f81e785386f5a7850b042ece1ca376033a2b72d8388f8990a35",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/67838b4ff9d79f81_ko_20220518.zip"
+      ],
+      "files": [
+        {
+          "checksum": "c0603c2dcf7f24d16a9bca58a7245a0de58942e9ba6fdc7ccacd82d2d71f5cfa",
+          "name": "ahnmatae_forward_tokens.bin",
+          "size": 544
+        },
+        {
+          "checksum": "37198a7f52607ebba1705a6e44c6c9adb47b921ad1aa56f57dd8b6535119631c",
+          "name": "ahnmatae_hangul_setting_scheme.bin",
+          "size": 632
+        },
+        {
+          "checksum": "6fdddbef0b7bb5189e4f0b97fc613ef75f8d0b0c39645033bd22c57a8d8eb3e4",
+          "name": "ahnmatae_hanja_setting_scheme.bin",
+          "size": 491
+        },
+        {
+          "checksum": "c0603c2dcf7f24d16a9bca58a7245a0de58942e9ba6fdc7ccacd82d2d71f5cfa",
+          "name": "ahnmatae_tokens.bin",
+          "size": 544
+        },
+        {
+          "checksum": "2b53129216a20ff4ae00d98393b6eb39356ab7648416d5321b493faef8727b77",
+          "name": "bigram.bin",
+          "size": 5949008
+        },
+        {
+          "checksum": "516b70b591e28cde318694802b59ab79934de02b22eed8e92536cd12df98d6ba",
+          "name": "data_scheme",
+          "size": 900
+        },
+        {
+          "checksum": "f2009b90a4da66dccede99d8a8fb6a769f75d504089defba7a8446dfe7e017f1",
+          "name": "default_forward_tokens.bin",
+          "size": 208
+        },
+        {
+          "checksum": "d4871b0fb2eaec5f886c02e3bc08a73743934ea594c65094aeaf8e2f3cf3f95b",
+          "name": "default_hangul_setting_scheme.bin",
+          "size": 629
+        },
+        {
+          "checksum": "af1d332ffa20e0a79ba2ca7bd1e23b472ba73e07cd0810c19f4407f0140b3302",
+          "name": "default_hanja_setting_scheme.bin",
+          "size": 488
+        },
+        {
+          "checksum": "f2009b90a4da66dccede99d8a8fb6a769f75d504089defba7a8446dfe7e017f1",
+          "name": "default_tokens.bin",
+          "size": 208
+        },
+        {
+          "checksum": "8a63c695714b823dd6a62f1775575fe22b473956fb1087144be6557cb12d23ee",
+          "name": "emoji.bin",
+          "size": 51915
+        },
+        {
+          "checksum": "0f25579f1597b377388ebd073a85a118095cb83477f66766de5e5835917826e1",
+          "name": "gesture_data_scheme",
+          "size": 54
+        },
+        {
+          "checksum": "648e248119c954b1f18f010aff76d1c99b714b8fd0d1dd2f1eb9d32bfc51ad34",
+          "name": "hanja_annotation.bin",
+          "size": 433160
+        },
+        {
+          "checksum": "476995c17300fe057707bf5853cf78d81932993fe549348e4eb7278d08d72164",
+          "name": "korean_gesture_lexicon",
+          "size": 3043000
+        },
+        {
+          "checksum": "fbe9baa53087a187573099a8891c52f4727257f8b4f159ae0ad27902cae45b64",
+          "name": "korean_gesture_setting_scheme",
+          "size": 116
+        },
+        {
+          "checksum": "3b159bf4df3ca952bc3874b5e8f5e470f3103d5fdf53d8907fce72664b4f16f6",
+          "name": "mutable_dictionary_accessor_setting_scheme",
+          "size": 120
+        },
+        {
+          "checksum": "4abb6552804fdad216a3dde8f6ad02873a7d2496b2720e66c46c21c41344e5e4",
+          "name": "reconversion_expansion.bin",
+          "size": 56504
+        },
+        {
+          "checksum": "19e1916886ee43c7f1cfafea9f2e4bd076fa399c07c80b5f7f3a576524a30e2c",
+          "name": "romaja_forward_tokens.bin",
+          "size": 328
+        },
+        {
+          "checksum": "465d871ca96ae66e72b7c18997dadd4827742727138c116184571a4437ae4e2a",
+          "name": "romaja_hangul_setting_scheme.bin",
+          "size": 626
+        },
+        {
+          "checksum": "7cb4dfb8ffd34a0ca4a3e1bfce56b1bb2620a55ea4dd66d277284a40bc490496",
+          "name": "romaja_hanja_setting_scheme.bin",
+          "size": 485
+        },
+        {
+          "checksum": "19e1916886ee43c7f1cfafea9f2e4bd076fa399c07c80b5f7f3a576524a30e2c",
+          "name": "romaja_tokens.bin",
+          "size": 328
+        },
+        {
+          "checksum": "d4e7fabae513e312d7fdaa8b893120ea7e1004cac792e1e846c0b2067bfc8180",
+          "name": "system_hanja_dictionary.bin",
+          "size": 5374264
+        },
+        {
+          "checksum": "d15e1963ee2f020209793dece565d155e2375eba9a50a473f17650de93ae3472",
+          "name": "system_syllable_dictionary.bin",
+          "size": 174336
+        },
+        {
+          "checksum": "ed8157f26e458f2828a88879f538d1492772d5421446e8fae2d6d478e94023b9",
+          "name": "system_word_dictionary.bin",
+          "size": 562376
+        },
+        {
+          "checksum": "3b159bf4df3ca952bc3874b5e8f5e470f3103d5fdf53d8907fce72664b4f16f6",
+          "name": "user_dictionary_setting.bin",
+          "size": 120
+        }
+      ],
+      "locale": "ko",
+      "name": "ko_20220518.zip",
+      "size": 11529763,
+      "version": 20220518
+    },
+    {
+      "checksum": "a1252b0ff3c578ef43271cee273a990173a3473c99023093d4dec218d5ff1aa4",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/a1252b0ff3c578ef_ml-in_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "2d3a9b0a43c7986e4657d45fbba480e78de5f6c07bb97e2bf39cf8df6a695707",
+          "name": "main.dict",
+          "size": 7646848
+        }
+      ],
+      "locale": "ml-IN",
+      "name": "ml-in_2021120100.zip",
+      "size": 6553680,
+      "version": 2021120100
+    },
+    {
+      "checksum": "569db035b44cfda539b5f266e38819957b4847bf0b04acdf7d17651aa87ec699",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/569db035b44cfda5_ml-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "14fa3b8c0a23832a18d7291c90d0318674235ed3aa6f2f04b51f0be1c27e790b",
+          "name": "main.dict",
+          "size": 7415072
+        }
+      ],
+      "locale": "ml-XA",
+      "name": "ml-xa_2021120100.zip",
+      "size": 6434627,
+      "version": 2021120100
+    },
+    {
+      "checksum": "4603356a84b48fc79a959698389fe846167b652635ee0215d81248f86922f7a7",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/4603356a84b48fc7_ml-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "9c984f227a9601f20b0e6c56997b9810510ab704a3f1205174dbe76ef07b45be",
+          "name": "main.dict",
+          "size": 11928472
+        }
+      ],
+      "locale": "ml-XT",
+      "name": "ml-xt_2022020300.zip",
+      "size": 7043568,
+      "version": 2022020300
+    },
+    {
+      "checksum": "1f5921e793000b549ba02fc4205df7b92cff91d4bbb3c287bea57cafd2fd4e4e",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/1f5921e793000b54_mr-in_2022011100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "9f5081ba8a1b1e4b2e19b211c332e2db917625ca4031d9abce8beed6af9e4e97",
+          "name": "main.dict",
+          "size": 6866848
+        }
+      ],
+      "locale": "mr-IN",
+      "name": "mr-in_2022011100.zip",
+      "size": 5770836,
+      "version": 2022011100
+    },
+    {
+      "checksum": "4b87ef157a1dc82c44d348a0ddeee2d5e5b521918cca6bc805de266ce8a02c25",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/4b87ef157a1dc82c_mr-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "8986dcf2a71413b417e1da6c3b1cbf6ca6c6e469ecd4bf260126bc455419ed9a",
+          "name": "main.dict",
+          "size": 7317360
+        }
+      ],
+      "locale": "mr-XA",
+      "name": "mr-xa_2021120100.zip",
+      "size": 6140867,
+      "version": 2021120100
+    },
+    {
+      "checksum": "e275fbe0412c01142d01a11ee3aabdd2c16fcd5fb7a73b577849f2daea4d60bc",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/e275fbe0412c0114_mr-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "773ab0c0a1ccb6c2f31d64235249b1ac3db26e4cf3e2df009eeab7bbda257c85",
+          "name": "main.dict",
+          "size": 9548328
+        }
+      ],
+      "locale": "mr-XT",
+      "name": "mr-xt_2022020300.zip",
+      "size": 5658079,
+      "version": 2022020300
+    },
+    {
+      "checksum": "8061042867e3efc8fc0e88f9a1ed6de57fe87b6513d6f4017c5953a3868bb88d",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/8061042867e3efc8_nb_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "97df4c7d16fa29ac930a45eed9352b66fc6ebf0453675ead3b4b67a7eaf18e6c",
+          "name": "main.dict",
+          "size": 7255616
+        }
+      ],
+      "locale": "nb",
+      "name": "nb_2021121500.zip",
+      "size": 6042805,
+      "version": 2021121500
+    },
+    {
+      "checksum": "493f3e53e3e5fddc9a432fe647d6be7ef53b731779994ebd45d0ac4cda611984",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/493f3e53e3e5fddc_ne-in_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "f5a7e030b94ccbb00cddc802f6a5a529df516f77082778d3925f47bea9dab84c",
+          "name": "main.dict",
+          "size": 7635608
+        }
+      ],
+      "locale": "ne-IN",
+      "name": "ne-in_2021120100.zip",
+      "size": 6533832,
+      "version": 2021120100
+    },
+    {
+      "checksum": "6ea3d45ddc56f4429623e9deb8ff07a050c9931ccb5f090c4187029bb1663c31",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/6ea3d45ddc56f442_ne-np_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "d4be751a6d9bb7592d34aa4a18c4b72a1c6fa2ff3081a6225f41da7ae25edf46",
+          "name": "main.dict",
+          "size": 7340800
+        }
+      ],
+      "locale": "ne-NP",
+      "name": "ne-np_2021120100.zip",
+      "size": 6302729,
+      "version": 2021120100
+    },
+    {
+      "checksum": "64b2852cbbd118a5724303666d55b63b31f777c275e1d3a210608cdfb25d952c",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/64b2852cbbd118a5_ne-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "a86bf5baeb9e97b81f075a437c86cd4ab982ab09c22d5540b0acad379cb9aedd",
+          "name": "main.dict",
+          "size": 7481944
+        }
+      ],
+      "locale": "ne-XA",
+      "name": "ne-xa_2021120100.zip",
+      "size": 6355270,
+      "version": 2021120100
+    },
+    {
+      "checksum": "bd9e2ad1360083f7f90c45ebf7df82828066b617bb0015b74af64a4603201172",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/bd9e2ad1360083f7_ne-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "932b4371f0a797919206d359c19e24abd8ddccf18206f8a1c36ed88d0bd6b81f",
+          "name": "main.dict",
+          "size": 10650272
+        }
+      ],
+      "locale": "ne-XT",
+      "name": "ne-xt_2022020300.zip",
+      "size": 6123108,
+      "version": 2022020300
+    },
+    {
+      "checksum": "0097f4071afdbb5900295982f937b7de84eb0e0029a2a609237335d631f340c2",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/0097f4071afdbb59_nl_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "dad30b540f45e4b34dffa45d6749659a298141ed12702f44167e1ca642bb1b5c",
+          "name": "main.dict",
+          "size": 8345210
+        }
+      ],
+      "locale": "nl",
+      "name": "nl_2021121500.zip",
+      "size": 6977677,
+      "version": 2021121500
+    },
+    {
+      "checksum": "45d617dc72765db347de1cd53759f485a31fbd6306aa58cb5ff27653951d57d5",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/45d617dc72765db3_nl-be_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "b1ab139c1e3fa8fe352f0873c8109c3b331829cd9020143b8dcaa6dfb8491702",
+          "name": "main.dict",
+          "size": 6682712
+        }
+      ],
+      "locale": "nl-BE",
+      "name": "nl-be_2021121500.zip",
+      "size": 5579092,
+      "version": 2021121500
+    },
+    {
+      "checksum": "881c0fab16fcf22fe61fb4eb90eb3b12c801889e42fc76d5cfe57c187b7bb4d2",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/881c0fab16fcf22f_nn-no_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "1f0d0215606e840510ab297467517c109f2b8a124d343334d5827835ffd54c8d",
+          "name": "main.dict",
+          "size": 4268192
+        }
+      ],
+      "locale": "nn-NO",
+      "name": "nn-no_2021121500.zip",
+      "size": 2972822,
+      "version": 2021121500
+    },
+    {
+      "checksum": "322b2a10482c4fbec5ad2784be2e1bcaa5de1f5781ae0a1b9b61b907cf196592",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/322b2a10482c4fbe_or_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "9e17c721a25d2b5b011142e51676b15001705d8a11df205beb41fa9459628b09",
+          "name": "main.dict",
+          "size": 6545232
+        }
+      ],
+      "locale": "or",
+      "name": "or_2021120100.zip",
+      "size": 5300825,
+      "version": 2021120100
+    },
+    {
+      "checksum": "ceec743fdbd980e62e844ee0191315088654c2c431a8cbfd82afd86fcfdaac15",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/ceec743fdbd980e6_or-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "2ba1c679292d9a6c5396d82039c6f8f3392b1e2778112eccb52c0191ededd962",
+          "name": "main.dict",
+          "size": 6479176
+        }
+      ],
+      "locale": "or-XA",
+      "name": "or-xa_2021120100.zip",
+      "size": 5275772,
+      "version": 2021120100
+    },
+    {
+      "checksum": "b6cf1e95c5fe225a947eac7bd7fe2cfed8e4cbd18871365dee085455fde7ebb6",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/b6cf1e95c5fe225a_or-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "abafd805a7ed2c7ef2803c9a19cf1d2e10948ac51303e9ab9363ee345a919e1c",
+          "name": "main.dict",
+          "size": 10495880
+        }
+      ],
+      "locale": "or-XT",
+      "name": "or-xt_2022020300.zip",
+      "size": 6363763,
+      "version": 2022020300
+    },
+    {
+      "checksum": "4aa19f971b8096cfad9b15fe9484311e43e865fc8954025d65863367710fdcba",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/4aa19f971b8096cf_pa-pk_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "9d0e8cb245c1a7f9c982c0e67e88720fe2ecc71d6b2c0b2a2368cdde571c1d54",
+          "name": "main.dict",
+          "size": 5199000
+        }
+      ],
+      "locale": "pa-PK",
+      "name": "pa-pk_2021121500.zip",
+      "size": 3847151,
+      "version": 2021121500
+    },
+    {
+      "checksum": "deae60848d804e3008d0d5c22ac9ee037bf2bafd8e06fa4971c407ec015003cb",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/deae60848d804e30_pa-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "326fc69436ac3ac3a326b19d32199c52fb20cc1bd12a4fe6933f260601f8caca",
+          "name": "main.dict",
+          "size": 7085632
+        }
+      ],
+      "locale": "pa-XA",
+      "name": "pa-xa_2021120100.zip",
+      "size": 5964625,
+      "version": 2021120100
+    },
+    {
+      "checksum": "81211a6b5528ff6bceae820048d551b3325a19522ba57449fd0fca64bef8d266",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/81211a6b5528ff6b_pa-xf_2022011100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "243a017e3f6c92f4af1fd94e4e45b5f6a7e21047419d9eb3ec2d567d26145acf",
+          "name": "main.dict",
+          "size": 6767880
+        }
+      ],
+      "locale": "pa-XF",
+      "name": "pa-xf_2022011100.zip",
+      "size": 5636533,
+      "version": 2022011100
+    },
+    {
+      "checksum": "580bb0d048acc15e0fbc740e85a5336a367a8fe6576a0d94e54e158aae396b87",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/580bb0d048acc15e_pa-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "6f6f98dfb9cbe426309f4a1d1e7a20dfc57d126ebd524664b3f1449b83d8bd8c",
+          "name": "main.dict",
+          "size": 8458400
+        }
+      ],
+      "locale": "pa-XT",
+      "name": "pa-xt_2022020300.zip",
+      "size": 4904249,
+      "version": 2022020300
+    },
+    {
+      "checksum": "4919f0ef3cbad2a2c059c58e0fdb1422240284dd9318d3fb3cf6d4599a5ef681",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/4919f0ef3cbad2a2_pa-xv_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "509d56d8611e943214bbd09eb64c8315f3a4b4f2585de5387072035a6c241b63",
+          "name": "main.dict",
+          "size": 9093880
+        }
+      ],
+      "locale": "pa-XV",
+      "name": "pa-xv_2022020300.zip",
+      "size": 5358907,
+      "version": 2022020300
+    },
+    {
+      "checksum": "9d473eeb39d7158c44d2027a68045de25ab5bc3d6880449c59a8a61d10e6c533",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/9d473eeb39d7158c_pl_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "319313052042b161e691124e5b9cc825b64419432b7a4951c083c8e587981323",
+          "name": "main.dict",
+          "size": 10259628
+        }
+      ],
+      "locale": "pl",
+      "name": "pl_2021121500.zip",
+      "size": 8596712,
+      "version": 2021121500
+    },
+    {
+      "checksum": "b1f2ec02c030f292e223aab8ec995c45e1ec7d10c223706d13aef368510bf280",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/b1f2ec02c030f292_pt-002_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "fe7413d976185779076f229bf4c5049c76807f87e13043d2b3ef944e041bbb2b",
+          "name": "main.dict",
+          "size": 6928016
+        }
+      ],
+      "locale": "pt-002",
+      "name": "pt-002_2021121500.zip",
+      "size": 5515952,
+      "version": 2021121500
+    },
+    {
+      "checksum": "1993704e43cd020dcf85f879c77ca1bac1e228c5b1c68c158128e85393b94210",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/1993704e43cd020d_pt-ao_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "ceec9487f77deae83dbaea20f39bb218a55bca8b37385b9c48699a44df31a471",
+          "name": "main.dict",
+          "size": 7201904
+        }
+      ],
+      "locale": "pt-AO",
+      "name": "pt-ao_2021121500.zip",
+      "size": 5768830,
+      "version": 2021121500
+    },
+    {
+      "checksum": "8391a43eba0ac92ccc14a30453b54614cc2fc932627d0b642ddb391a58baa29a",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/8391a43eba0ac92c_pt-br_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "2d82c290f400972b9d428944d431e80fde21f48cc5819eee221f37771cae4a7b",
+          "name": "main.dict",
+          "size": 8290775
+        }
+      ],
+      "locale": "pt-BR",
+      "name": "pt-br_2021121500.zip",
+      "size": 6376655,
+      "version": 2021121500
+    },
+    {
+      "checksum": "0de807c22dfb9ed316faf863cd46ad30426204d1443903af738797f92b8d01df",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/0de807c22dfb9ed3_pt-mo_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "b206e8716875dda1cb9d113a73730760658abe0c2045b6d778f0a0efa2830b12",
+          "name": "main.dict",
+          "size": 7189400
+        }
+      ],
+      "locale": "pt-MO",
+      "name": "pt-mo_2021121500.zip",
+      "size": 5759936,
+      "version": 2021121500
+    },
+    {
+      "checksum": "eab4d77c3cf1ec0ce3ae030002618a252ff078dbad9ca0c9a8a150b9956ebfb3",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/eab4d77c3cf1ec0c_pt-pt_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "323ddd8036962e97e763efb340f91e88baa9a17d2acbd765c9fde4ad851ea2f8",
+          "name": "main.dict",
+          "size": 8175610
+        }
+      ],
+      "locale": "pt-PT",
+      "name": "pt-pt_2021121500.zip",
+      "size": 6564791,
+      "version": 2021121500
+    },
+    {
+      "checksum": "35170c2d10481057f1bcc4626ca1e17c22c2aeccd5d02244b336297b01b48782",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/35170c2d10481057_sa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "0779bbd92ca9b6ceda4dabb96f995cd285e9c2e4fed0ef68ec8e9942c53a8113",
+          "name": "main.dict",
+          "size": 6554704
+        }
+      ],
+      "locale": "sa",
+      "name": "sa_2021120100.zip",
+      "size": 5558146,
+      "version": 2021120100
+    },
+    {
+      "checksum": "cc8d4a56e022ea3c491eab23df328c9994fb7babe8df1a4b69f93440cb04f5b4",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/cc8d4a56e022ea3c_sa-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "8d21488d9a6ed87fdbea144cc428f92f07dfb5766355c71afec53deec540510a",
+          "name": "main.dict",
+          "size": 6191760
+        }
+      ],
+      "locale": "sa-XA",
+      "name": "sa-xa_2021120100.zip",
+      "size": 5307253,
+      "version": 2021120100
+    },
+    {
+      "checksum": "867441bf981342da75d926a86db7867bbdbdad757c1223de4be2081865b4cba2",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/867441bf981342da_sa-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "b8d548a9e541ce4f1fb4b45350330546ffbee6c8c4bd11d7078da68a34f48a6f",
+          "name": "main.dict",
+          "size": 9452856
+        }
+      ],
+      "locale": "sa-XT",
+      "name": "sa-xt_2022020300.zip",
+      "size": 5404943,
+      "version": 2022020300
+    },
+    {
+      "checksum": "3cc86d73c130e0b2ef736c634dad5134251e3d949b2202421e3a89a0d043b55b",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/3cc86d73c130e0b2_sv_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "baceaca18eb79c385a5691836f06f56ff7772fd32f8ea82604658575996dc144",
+          "name": "main.dict",
+          "size": 7277520
+        }
+      ],
+      "locale": "sv",
+      "name": "sv_2021121500.zip",
+      "size": 6075404,
+      "version": 2021121500
+    },
+    {
+      "checksum": "1575aabcf43f3b71a1cf1985ac89275d7631b0120544df3968ca54f677d6c726",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/1575aabcf43f3b71_sv-fi_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "735f46ce6463e2c1806907f8eb013f6d3144b72eb64661208049abe2ed2ba911",
+          "name": "main.dict",
+          "size": 7970344
+        }
+      ],
+      "locale": "sv-FI",
+      "name": "sv-fi_2021120100.zip",
+      "size": 6666672,
+      "version": 2021120100
+    },
+    {
+      "checksum": "54aac20ea6054757c15381ce9186ffd9dfee6f0331b9dff04401dc64021ac8a8",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/54aac20ea6054757_ta-in_2022011100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "4dd3530208fa32528f7e3ec0beb1082dfcfdd368d144bc9907aab81e6a61bba1",
+          "name": "main.dict",
+          "size": 6983080
+        }
+      ],
+      "locale": "ta-IN",
+      "name": "ta-in_2022011100.zip",
+      "size": 5936377,
+      "version": 2022011100
+    },
+    {
+      "checksum": "b53f5d1e09360612e3d08f6871449ad899acdf958d83bf63a2d429c87b1fac6a",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/b53f5d1e09360612_ta-lk_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "48392e1488e48a793e045347246650a231a3698b3fc84c455fe9abe8cfc30640",
+          "name": "main.dict",
+          "size": 6950664
+        }
+      ],
+      "locale": "ta-LK",
+      "name": "ta-lk_2021121500.zip",
+      "size": 5925271,
+      "version": 2021121500
+    },
+    {
+      "checksum": "a53ea3f24f455b69275e4cb088706fc64f96df4aaf823ed5400d445991eaf65f",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/a53ea3f24f455b69_ta-sg_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "8c2471a959b7f11278629d8b98be650f7a75b52533f7c2fa4fec0a71b3946327",
+          "name": "main.dict",
+          "size": 6861176
+        }
+      ],
+      "locale": "ta-SG",
+      "name": "ta-sg_2021121500.zip",
+      "size": 5798903,
+      "version": 2021121500
+    },
+    {
+      "checksum": "87b43f0376aa03f533c71cfdbce07eece6e75302525e87c2836502d68bfd4536",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/87b43f0376aa03f5_ta-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "280d95959166396546536ead666babd8bd73c833d615b98ef40c5c0a28a46d4a",
+          "name": "main.dict",
+          "size": 7298912
+        }
+      ],
+      "locale": "ta-XA",
+      "name": "ta-xa_2021120100.zip",
+      "size": 6325075,
+      "version": 2021120100
+    },
+    {
+      "checksum": "d6182be48404567474848f8baff16c26a44ad92dc00ae071157e143b4bd8fb76",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/d6182be484045674_ta-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "9754a0db0889c63feee8477d15398373371c7d71c0f2f9c0977572f45ed3f475",
+          "name": "main.dict",
+          "size": 11891408
+        }
+      ],
+      "locale": "ta-XT",
+      "name": "ta-xt_2022020300.zip",
+      "size": 6797449,
+      "version": 2022020300
+    },
+    {
+      "checksum": "6252cc70a23e671b7731f84fc7359afe2229c2c6822379a5f7962dc3be5ff522",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/6252cc70a23e671b_te-in_2022011100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "949fd66c021d5cec3f9ac10257191e571d49627179ed4aaac515a5f5dcf604be",
+          "name": "main.dict",
+          "size": 8910304
+        }
+      ],
+      "locale": "te-IN",
+      "name": "te-in_2022011100.zip",
+      "size": 7485404,
+      "version": 2022011100
+    },
+    {
+      "checksum": "b0444b396f53fec58076b1d5333725573bbcafb33d299560e6c4bef5b9101dd0",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/b0444b396f53fec5_te-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "5f6d2127bd8660a31a9b6a9825281d0169f157311676b64c8cf23d9521122b27",
+          "name": "main.dict",
+          "size": 7409856
+        }
+      ],
+      "locale": "te-XA",
+      "name": "te-xa_2021120100.zip",
+      "size": 6398950,
+      "version": 2021120100
+    },
+    {
+      "checksum": "8524fdf089ed1e81c8a66eb6fa0651293b95acdcc364ca653b6dde704bd6d8e3",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/8524fdf089ed1e81_te-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "6534668990965841693e5d4d95957ae48844509338bbfca8822848d309bd7238",
+          "name": "main.dict",
+          "size": 10754024
+        }
+      ],
+      "locale": "te-XT",
+      "name": "te-xt_2022020300.zip",
+      "size": 6241185,
+      "version": 2022020300
+    },
+    {
+      "checksum": "a50a021cb6818edc71d2133873dcb4323aeccf16dceabfa1209c5ce2f96d5a5f",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/a50a021cb6818edc_tr_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "83fbba2d4e101905d3ff8d3eb2f796ade417701686f19f990814a24e0c171617",
+          "name": "main.dict",
+          "size": 6283168
+        }
+      ],
+      "locale": "tr",
+      "name": "tr_2021121500.zip",
+      "size": 5380736,
+      "version": 2021121500
+    },
+    {
+      "checksum": "d3bd645d26e1434e392b55daa80c7449b7160ee76096c9554dde7bb481627c25",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/d3bd645d26e1434e_tr-cy_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "0b51be6fc96c7d9ccb373ea2c5fafa5b13a6cded671aaf0e45149822978cba37",
+          "name": "main.dict",
+          "size": 6869704
+        }
+      ],
+      "locale": "tr-CY",
+      "name": "tr-cy_2021120100.zip",
+      "size": 5829177,
+      "version": 2021120100
+    },
+    {
+      "checksum": "98215132f93745383060799916af785cc637f5e96ca370c5bded20217118ddcc",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/98215132f9374538_ur-in_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "9e0fd547c3e308fc0c58026faffaed4f6212d3e1bc49bade9be2089016d26f96",
+          "name": "main.dict",
+          "size": 6806488
+        }
+      ],
+      "locale": "ur-IN",
+      "name": "ur-in_2021120100.zip",
+      "size": 5706590,
+      "version": 2021120100
+    },
+    {
+      "checksum": "b24112dbbe5db3a9319223e2d9a1578e3cdc89993ba88de3ba48bfbb2c2a49b5",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/b24112dbbe5db3a9_ur-pk_2021121500.zip"
+      ],
+      "files": [
+        {
+          "checksum": "910c66670c614412526ea70a643ddc33ec2a765ba4c52ffe938ff2155cba445c",
+          "name": "main.dict",
+          "size": 6569632
+        }
+      ],
+      "locale": "ur-PK",
+      "name": "ur-pk_2021121500.zip",
+      "size": 5492000,
+      "version": 2021121500
+    },
+    {
+      "checksum": "48108d80208be8789c9a6a3d32703e9806fda13d5f90c01c0592822263152eea",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/48108d80208be878_ur-xa_2021120100.zip"
+      ],
+      "files": [
+        {
+          "checksum": "b60d6d8ae8dd98f2e318cc0cc74d0922614ec6705eea4b3b4f8bfae828de7f75",
+          "name": "main.dict",
+          "size": 7213064
+        }
+      ],
+      "locale": "ur-XA",
+      "name": "ur-xa_2021120100.zip",
+      "size": 6097365,
+      "version": 2021120100
+    },
+    {
+      "checksum": "663cbcb319db5a16af8ddcf79308286628f140eb2ed409edfe6b195f2f922518",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/663cbcb319db5a16_ur-xt_2022020300.zip"
+      ],
+      "files": [
+        {
+          "checksum": "3f95bf46b6bac8025fecbd1c52aed6939261acef71874d0b0b12159278f122b8",
+          "name": "main.dict",
+          "size": 9874808
+        }
+      ],
+      "locale": "ur-XT",
+      "name": "ur-xt_2022020300.zip",
+      "size": 5278846,
+      "version": 2022020300
+    },
+    {
+      "checksum": "363926369694ee87af187811078b3fcd331090dfa493abe1b4c1c153af8e2e86",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/363926369694ee87_zh_cn_20220518.zip"
+      ],
+      "files": [
+        {
+          "checksum": "e320c45426003f9bc0969c5a7c181126b841cd8223189241f0cb0bc8dcf29c44",
+          "name": "9key_with_english_setting_scheme",
+          "size": 352
+        },
+        {
+          "checksum": "c5e4cf1d1448f0c562925f2496da57c0d5e2f2e2723bc79330b971ba9c34413f",
+          "name": "9key_without_english_setting_scheme",
+          "size": 225
+        },
+        {
+          "checksum": "5b474ddf07372c9efa673d08147a20195206e7fe37ddb7a9ff1adc4243187f3d",
+          "name": "data_scheme",
+          "size": 3275
+        },
+        {
+          "checksum": "5a73c933a5bc7fe38c66e9e0906a52e5ae1123d5351397fafa5ed1bf224c0a5d",
+          "name": "digits_reconversion_expansion",
+          "size": 168
+        },
+        {
+          "checksum": "d0297c4b94eb77b155ee3a9ffd41be53e0d38050b8b23f6324d74c5038130f2b",
+          "name": "digits_reverse_initial_token_expansion",
+          "size": 208
+        },
+        {
+          "checksum": "c82cbf801b3633c3f59fcbb3e091e040b2ab578d0c19778137fc416e67616b44",
+          "name": "emoji_setting_scheme",
+          "size": 105
+        },
+        {
+          "checksum": "98ea2dc9bd1d391b913da8b991601e35575eb0fb4df81bf671be278fd8e02233",
+          "name": "english_reconversion_expansion",
+          "size": 240
+        },
+        {
+          "checksum": "732d5a361eaafefca0ebac7d37091a05647a70f822470d08d0b4a23dd00a16e2",
+          "name": "english_reverse_initial_token_expansion",
+          "size": 352
+        },
+        {
+          "checksum": "f38da0edfbf142ed053a5fd758d19dc904ea192ed6d700514b0a93e0e1de740b",
+          "name": "english_setting_scheme",
+          "size": 208
+        },
+        {
+          "checksum": "005ff40a2e081786db4057cdefef46079b2f5480408270d56972fdc562d4f043",
+          "name": "gesture_data_scheme",
+          "size": 58
+        },
+        {
+          "checksum": "fc7cd07f1df09bcbbc16d8f0f4165ac58e785fa62125ff27d1cb4be564324d6b",
+          "name": "pinyin_bigram",
+          "size": 5318184
+        },
+        {
+          "checksum": "21c550b1108b6ccf636c7d0ca13d7e402ac4c03d3b3a9716f43c2253deaaa2ce",
+          "name": "pinyin_digits_token",
+          "size": 3640
+        },
+        {
+          "checksum": "27304e8e38546b854224534c56b3befe7d6e51eb5597c394af1ec5e8b63085d0",
+          "name": "pinyin_english_token",
+          "size": 80
+        },
+        {
+          "checksum": "8d4db8b25c4addbfa779b7130548f1f54e918384794c946800adc2a95f7f6ad1",
+          "name": "pinyin_fuzzy_expansion_an_ang",
+          "size": 816
+        },
+        {
+          "checksum": "e46e5c33272459793d5069501c397f8b3b1713bba6fef231d93783d0b63dad09",
+          "name": "pinyin_fuzzy_expansion_c_ch",
+          "size": 816
+        },
+        {
+          "checksum": "1dd66627b7b654266a8ba0e81817cf490f238b0d8d1c961ad2dc36b2ac0844a3",
+          "name": "pinyin_fuzzy_expansion_default",
+          "size": 328
+        },
+        {
+          "checksum": "23da764498c7fe153d52eb69d99f090c2060bd6ccd25d054decff41d8f16eba2",
+          "name": "pinyin_fuzzy_expansion_en_eng",
+          "size": 816
+        },
+        {
+          "checksum": "bf834e3a5bc0dcf5148f3466fb194b5fe0bb67deda1aea1f152fc476492dce74",
+          "name": "pinyin_fuzzy_expansion_f_h",
+          "size": 880
+        },
+        {
+          "checksum": "0cc2b5587399a4a9d518fa96fc730eb6257b747a4d18607d87d20c421792dac6",
+          "name": "pinyin_fuzzy_expansion_ian_iang",
+          "size": 480
+        },
+        {
+          "checksum": "3f68b5bf74419bddf3e3ba1aef9c40b1fab11fe7a35c7c0878a243a43eaea1c0",
+          "name": "pinyin_fuzzy_expansion_in_ing",
+          "size": 520
+        },
+        {
+          "checksum": "d2f9ae38ce1b7cd4492bb0975b7b52e8455b4f316e56c2a1f565e164a79f3db1",
+          "name": "pinyin_fuzzy_expansion_k_g",
+          "size": 776
+        },
+        {
+          "checksum": "b7e4ce2f260b7cf29798629f117b22cf368dffa4d5266a6c57f0b93aa13422fa",
+          "name": "pinyin_fuzzy_expansion_l_n",
+          "size": 1168
+        },
+        {
+          "checksum": "34bd5ce4c3af3a778ca9c65ac714cbcd1a7134daf5c53ff3afbddedcb358bc92",
+          "name": "pinyin_fuzzy_expansion_r_l",
+          "size": 1168
+        },
+        {
+          "checksum": "fbe01250c493dc48871142d9215c6dfcc5666d647b914ac9f3046b049e48d358",
+          "name": "pinyin_fuzzy_expansion_s_sh",
+          "size": 856
+        },
+        {
+          "checksum": "ca284b95280197d41c0fbc5fb17c71a5a924494990b7f9e50862f8256d3fc0e1",
+          "name": "pinyin_fuzzy_expansion_uan_uang",
+          "size": 776
+        },
+        {
+          "checksum": "0597039e54c1bdeca60096649cfd5b797af9d9e33d08e3eb5c55935f97e8f1e0",
+          "name": "pinyin_fuzzy_expansion_z_zh",
+          "size": 856
+        },
+        {
+          "checksum": "63ed3945e08f56354470e0dfbba6300e75215f422daefab22cd163ac67f9c35e",
+          "name": "pinyin_gesture_bigram",
+          "size": 186331
+        },
+        {
+          "checksum": "71839e63c800bb611d74c4010424481ac2b79275c842e41a80453a93366d4e39",
+          "name": "pinyin_handwriting_setting_scheme",
+          "size": 838
+        },
+        {
+          "checksum": "4f7c7f33d28197539ed4754167ec818e37e1cfa9a4fa8e58cdfbdf5157343acf",
+          "name": "pinyin_initial_token_expansion",
+          "size": 3708
+        },
+        {
+          "checksum": "340a6078f3e6eb25907bc29d0320404b8d6d77d8b545359daf23d11b695ea106",
+          "name": "pinyin_mutable_dictionary_accessor_setting_scheme",
+          "size": 627
+        },
+        {
+          "checksum": "8194d77e44bcb44b0b30089faa9b485ce3d4f9ae3a3e7629047654ce4cd2196d",
+          "name": "pinyin_qwerty_setting_scheme",
+          "size": 1034
+        },
+        {
+          "checksum": "b8c97746f258aa4cf50338caf2457e5e6cac38f1b0aa919aa8cad796ae203028",
+          "name": "pinyin_reconversion_expansion",
+          "size": 150368
+        },
+        {
+          "checksum": "5107cedf0fed7841d528e7162af7bb11313add70b30f2630dc2fb60a708a40b5",
+          "name": "pinyin_reverse_initial_token_expansion",
+          "size": 4288
+        },
+        {
+          "checksum": "1005aa2e21ee58cf44988ecb2f15c3d3927f7ee3ec711968752856d90616d200",
+          "name": "pinyin_system_dictionary",
+          "size": 6287880
+        },
+        {
+          "checksum": "37c9efa97c4c6fa77249a3a181967f6b397e069cbb07ee4207fb1908a6fc6952",
+          "name": "pinyin_system_digits_dictionary",
+          "size": 40680
+        },
+        {
+          "checksum": "4a6b5d79724980a0b41e2d16db806efd38cf95b18a19e60748e6b19c2c7386ff",
+          "name": "pinyin_system_emoji_dictionary",
+          "size": 25784
+        },
+        {
+          "checksum": "519b74339d950faa699d4d57717aa55fd6832f9db33ff4f918c36cd6849aa9b5",
+          "name": "pinyin_system_english_dictionary",
+          "size": 294872
+        },
+        {
+          "checksum": "efbd33423d636a800eeb5388207de490421c51d98e53c3a2d562902393bb4352",
+          "name": "pinyin_t9_setting_scheme",
+          "size": 848
+        },
+        {
+          "checksum": "a13aeca6893ec7c6738d1cd4eaf442c7de8493d7bfe905c0151188d752fc9ba5",
+          "name": "pinyin_token",
+          "size": 9888
+        },
+        {
+          "checksum": "90829c2a56f3e41c530773caf7684d517a66d2181994b149f0350d9c4c414e50",
+          "name": "qwerty_with_english_setting_scheme",
+          "size": 345
+        },
+        {
+          "checksum": "236aab7b0d7b6b013032a92bdcf8244a13dd7165053687de391808ec9eae086a",
+          "name": "qwerty_without_english_setting_scheme",
+          "size": 216
+        },
+        {
+          "checksum": "dd793b88620628157b7788d0f055010e4785d64f645eebbca56d84f8999838f8",
+          "name": "shortcuts_mutable_dictionary_accessor_setting_scheme",
+          "size": 75
+        },
+        {
+          "checksum": "7b57f99e3f37b3fc3dff9d50ba0bd6c9186c25f588eeae45a857d4367578bf40",
+          "name": "shortcuts_tokens",
+          "size": 80
+        },
+        {
+          "checksum": "802ce10320d1cb708cad9e2cf380a83c72f746cb54500bc57c731e3e8137fb52",
+          "name": "token_id_table_shuangpin_abc",
+          "size": 5096
+        },
+        {
+          "checksum": "f4ec68eb5515456fcaf95cc4daca7991c8d712a6e7dea0e7eef6a99c4d4eaae8",
+          "name": "token_id_table_shuangpin_flypy",
+          "size": 5096
+        },
+        {
+          "checksum": "713de5493609956e3c91fc7b83ca975becacb4f4e04fb5874757ebdfc6ee52f4",
+          "name": "token_id_table_shuangpin_jiajia",
+          "size": 5168
+        },
+        {
+          "checksum": "5cb2ec50eb80c0f463b2494da6364e47dba1869794d106b277256767ad371b15",
+          "name": "token_id_table_shuangpin_ms",
+          "size": 5104
+        },
+        {
+          "checksum": "d5845029ba4f2215afbaccdaa4a1ca1b043460dfd60f14d570efbc1d84400bd9",
+          "name": "token_id_table_shuangpin_ziguang",
+          "size": 5096
+        },
+        {
+          "checksum": "560f9652dd97a72c150397e4b27602e6da13fa0aa0c00608b1163e6bec2350c1",
+          "name": "token_id_table_shuangpin_ziranma",
+          "size": 5176
+        },
+        {
+          "checksum": "25f70dcf96cfeca668408377f46573192bb3a971cb77c998f91066c3e4e11bee",
+          "name": "tokens_shuangpin_abc",
+          "size": 9320
+        },
+        {
+          "checksum": "a819efc60e933b1a826fe4fc7b40757042d82e0b76fe237f764647f4591b4d12",
+          "name": "tokens_shuangpin_flypy",
+          "size": 9320
+        },
+        {
+          "checksum": "c468b8b483baba51d084d8341292e23a073386af06dbe0f8a948235ff50003cf",
+          "name": "tokens_shuangpin_jiajia",
+          "size": 9560
+        },
+        {
+          "checksum": "954376614c09c860362098884b3770ee17aa1c77b2ed8874e2d812e5d77cc80e",
+          "name": "tokens_shuangpin_ms",
+          "size": 9384
+        },
+        {
+          "checksum": "3d035e8448dc4f22d68e1d2e6f4d0a8b0b8829c39d067053d15af4363840d391",
+          "name": "tokens_shuangpin_ziguang",
+          "size": 9320
+        },
+        {
+          "checksum": "25f1eb4e8fdb77bad501c08ea8607c107630e96a657936f7803d42627937999a",
+          "name": "tokens_shuangpin_ziranma",
+          "size": 9600
+        },
+        {
+          "checksum": "f1a7a4eb0ef282e9ebfefb61c166083208002ab0bbb9afa5096904080e523420",
+          "name": "wubi_setting_scheme",
+          "size": 302
+        },
+        {
+          "checksum": "b394a00c28d803c4542deec9e445719e0d6c7b008dc05efe393b7a44767f526f",
+          "name": "wubi_system_dictionary",
+          "size": 2329304
+        },
+        {
+          "checksum": "0b453c8fcebf22040b802631dc99dd29c67921784a269ea2badcd71c1521a4e5",
+          "name": "wubi_token",
+          "size": 80
+        },
+        {
+          "checksum": "b59a5e2ffba6453c32f48d13ccf76de7a7da319434dad51b6ee358e31e116993",
+          "name": "zh_stroke_setting_scheme",
+          "size": 354
+        },
+        {
+          "checksum": "856d4a9c931d2aa69d828f6e47098af8f58e1cdc3f81389797b85023faf32fac",
+          "name": "zh_stroke_token_dictionary",
+          "size": 786472
+        }
+      ],
+      "locale": "zh-CN",
+      "name": "zh_cn_20220518.zip",
+      "size": 10526663,
+      "version": 20220518
+    },
+    {
+      "checksum": "a02076ed3f98efa91bfd43ed81ce82100d4d7062ff29bc7225ac18e8d0e45f95",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/a02076ed3f98efa9_zh_hk_20220518.zip"
+      ],
+      "files": [
+        {
+          "checksum": "333968c8db2b1fc61dd7c3038631a027901cb1fb6e82fad6448182cdc275519c",
+          "name": "bigram_model",
+          "size": 1847200
+        },
+        {
+          "checksum": "c0adb0f602c626bda11e23e40b7d7a0f65ed7f39c19bce603e24830425fda128",
+          "name": "cangjie_data_scheme",
+          "size": 712
+        },
+        {
+          "checksum": "f2e19a215498577c77e95793f9876192e4f9ed023919473e3361959ad1b1ad57",
+          "name": "common_system_dictionary_easy",
+          "size": 284576
+        },
+        {
+          "checksum": "cf32d20c4413267e812435194abb00eb2a49ed89e9842c36ac04415ff8f07c18",
+          "name": "common_system_dictionary_prefix",
+          "size": 970776
+        },
+        {
+          "checksum": "63b5f460f76d8e3525a9ad1a313a7739af88a9cc0f58a08149521db1b084e7ce",
+          "name": "cpinyin_fuzzy_expansion",
+          "size": 55476
+        },
+        {
+          "checksum": "e84d235730309f2741b41ea8f0555237e3dacca66997da11e86928752da5f3dd",
+          "name": "cpinyin_mutable_dictionary_accessor_setting_scheme",
+          "size": 408
+        },
+        {
+          "checksum": "d816de981346f7206989a9e1e04d531ed16d2427a2484b2bcb85d70844df21e7",
+          "name": "cpinyin_setting_scheme",
+          "size": 460
+        },
+        {
+          "checksum": "d523343f5448881b0ea27df9173608a98fda493d147df696d0bc5f4700259e23",
+          "name": "cpinyin_token_v_2",
+          "size": 27856
+        },
+        {
+          "checksum": "371d7c02f621e32911105fa60ddecc550984877eed5156d2f15fa2ab09dc4cac",
+          "name": "data_scheme",
+          "size": 1287
+        },
+        {
+          "checksum": "aed2262d8a339a58fe66cb521602a3fad420f26f612675f94567c72a3489e198",
+          "name": "english_dictionary",
+          "size": 269288
+        },
+        {
+          "checksum": "a404585242312db21706c8cee715eb757c2d91845dc4a52b40e46fbf30087856",
+          "name": "english_reconversion_expansion",
+          "size": 368
+        },
+        {
+          "checksum": "732d5a361eaafefca0ebac7d37091a05647a70f822470d08d0b4a23dd00a16e2",
+          "name": "english_reverse_initial_expansion",
+          "size": 352
+        },
+        {
+          "checksum": "56bd5a7f7bd3899e500ef7eceb3ffd32417fb942cab3599608b02bf09d72d751",
+          "name": "english_token_v_2",
+          "size": 80
+        },
+        {
+          "checksum": "0aaf78650fa0efa9360eb5237141472f65956479facfa74b81d1a98d32501dcc",
+          "name": "handwriting_setting_scheme",
+          "size": 471
+        },
+        {
+          "checksum": "b3d82a484968564d8026806a9142fc1e4a1df89aaaca30ffc77af599628a00d1",
+          "name": "jyutping_fuzzy_expansion",
+          "size": 55668
+        },
+        {
+          "checksum": "1fa6029fda9476fb42d29deb389aa4273541c66fc7be217da4d58f90c27da0e5",
+          "name": "jyutping_mutable_dictionary_accessor_setting_scheme",
+          "size": 410
+        },
+        {
+          "checksum": "e851f09802a72e41696a9ccc62b8f8b19d94de8c86f99c071e4ccb1c4a061a1b",
+          "name": "jyutping_setting_scheme",
+          "size": 462
+        },
+        {
+          "checksum": "9ab89576bd01b0ed1d55e75e00481333bcb374fc3eaf252e5dc9efba2c21f8aa",
+          "name": "jyutping_token_v_2",
+          "size": 27944
+        },
+        {
+          "checksum": "616607b2ee33b0b9dfdbeef5ea8bf93fdc126e3440d4c6bb25e012172b913f6e",
+          "name": "stroke_setting_scheme",
+          "size": 354
+        },
+        {
+          "checksum": "e00b61cdbfc40792ce00bd19f2127f17cca1a13af1f9447ab98fac47b68166f1",
+          "name": "stroke_token_dictionary",
+          "size": 786472
+        },
+        {
+          "checksum": "7932bca4a15a4d090d1621d63f33987c297dfe2783995e9fe24eb74f83f08ba0",
+          "name": "token",
+          "size": 80
+        },
+        {
+          "checksum": "c9a5a2fe96f3ffddd554b189bdccea41c2807b98a4ad35b8856aa6b40ab45728",
+          "name": "v3_diff_system_dictionary_easy",
+          "size": 44784
+        },
+        {
+          "checksum": "e28193f901340f9332bdea8d9c02bfd9829009db3d05dec8bd89f906c2aebe1a",
+          "name": "v3_diff_system_dictionary_prefix",
+          "size": 139192
+        },
+        {
+          "checksum": "d6d045b9e7f097836975312fff365aa1181ef3a57ac7046622f5c720bfd258a1",
+          "name": "v3_easy_setting_scheme",
+          "size": 313
+        },
+        {
+          "checksum": "c2a180658becf0ea322fad43ba9b1fbae71c51b89f7007b1467b75355c2d0261",
+          "name": "v3_prefix_setting_scheme",
+          "size": 319
+        },
+        {
+          "checksum": "e82025ac4aa2129a973e4a9cbd6a1079df7f47fff11109f3d479ef7e2a670c3d",
+          "name": "v5_diff_system_dictionary_easy",
+          "size": 56152
+        },
+        {
+          "checksum": "b47fa80387b7c5bd876d8e189a55c899d38cab9f12be8137081b56fbf3157a32",
+          "name": "v5_diff_system_dictionary_prefix",
+          "size": 179248
+        },
+        {
+          "checksum": "40c2c9a8098d6e4bb164b3ab84de2a576acfcbd98f7c2ea6d85dece3f71f2f1b",
+          "name": "v5_easy_setting_scheme",
+          "size": 313
+        },
+        {
+          "checksum": "9c1926389c98e78abd041c7b52b41e65c0fb113dd0af8fca8143620cf2130c73",
+          "name": "v5_prefix_setting_scheme",
+          "size": 319
+        },
+        {
+          "checksum": "8905b223abf17878a0d23d27197beb76bdd66763d735514b162d4d034553d1c8",
+          "name": "yale_fuzzy_expansion",
+          "size": 59328
+        },
+        {
+          "checksum": "c57122b1dd758827f81dae4a3734e21ec5e858aff0a3623722dfd19e303a639b",
+          "name": "yale_initial_expansion",
+          "size": 5568
+        },
+        {
+          "checksum": "01d8ef40eca7c3a729f9a278b2a82892bb3137d078f04e7ea581cd67111c7ce5",
+          "name": "yale_mutable_dictionary_accessor_setting_scheme",
+          "size": 402
+        },
+        {
+          "checksum": "f45de802049e9a26bec0b34d877b1f4e44f6bc3d59a70902f826d96673bcf258",
+          "name": "yale_reconversion_expansion",
+          "size": 183520
+        },
+        {
+          "checksum": "1766afe72a612a20bbde23f8f9602cb64c3f7460299ece6e28e0fc50934583d6",
+          "name": "yale_reverse_initial_expansion",
+          "size": 7348
+        },
+        {
+          "checksum": "6905398c9a728c321028a0937330c807acfeba79c9b4010fa2dd0b434db15877",
+          "name": "yale_setting_scheme",
+          "size": 454
+        },
+        {
+          "checksum": "a00e3fb36faa935890d1325318e2b765bb79cd39b01a965dab6eaf45ae835872",
+          "name": "yale_system_dictionary",
+          "size": 3292512
+        },
+        {
+          "checksum": "b622cc94c93cf7a79a996d8e6ca8b3518308a4bbcbf113ea8a65be40559d3858",
+          "name": "yale_token_v_2",
+          "size": 29264
+        }
+      ],
+      "locale": "zh-HK",
+      "name": "zh_hk_20220518.zip",
+      "size": 5163585,
+      "version": 20220518
+    },
+    {
+      "checksum": "27baf332b52da0f7be3abd7253ad4e60b522fbe67e2450247647a681525c0c6d",
+      "download_urls": [
+        "https://dl.google.com/dl/inputtools/chrome/prod/27baf332b52da0f7_zh_tw_20220608.zip"
+      ],
+      "files": [
+        {
+          "checksum": "444ea189258eda3c2db23fe979cc7f8256ac7501086e710d923262299ce03514",
+          "name": "40key_with_english_setting_scheme",
+          "size": 338
+        },
+        {
+          "checksum": "ff5fc4db7bef5c07b6668e74a5fbbfedd6cfcc86563f28c23b955572ab98ab79",
+          "name": "40key_without_english_setting_scheme",
+          "size": 202
+        },
+        {
+          "checksum": "7aeb44a2743fc9a239b2331271d9d92a81545201cbf2f1ed7467168332ad9103",
+          "name": "array_setting_scheme",
+          "size": 174
+        },
+        {
+          "checksum": "cdf0bbee34112c0f87060cf05937dcda98452c71bacf880455c82bb594f4fc10",
+          "name": "array_system_dictionary",
+          "size": 993096
+        },
+        {
+          "checksum": "6c6f83542e7558cb12942c369be8ef4e09b46e4f1ec25932586538470f6b9e65",
+          "name": "array_token",
+          "size": 80
+        },
+        {
+          "checksum": "616f98570e22c997b1d411e5fb920a09ef1f8c8290c18e382ca5cdb1dd8b33f0",
+          "name": "bopomofo_mutable_dictionary_accessor_setting_scheme",
+          "size": 312
+        },
+        {
+          "checksum": "ef4b93d786e31d6c1a48cef5c7ea198210e221b15803a8c967c27b7d67534e24",
+          "name": "bopomofo_setting_scheme",
+          "size": 634
+        },
+        {
+          "checksum": "86edd0d9a9f2d36470615b4b5335fa803b8aa8c47aeb1d8e219505e9b48ce05f",
+          "name": "cangjie_data_scheme",
+          "size": 711
+        },
+        {
+          "checksum": "c41433f62f049cb3cd82b9a3ab68820e4ad1cdc6e400a06b62ce11428404be76",
+          "name": "classic_bopomofo_setting_scheme",
+          "size": 582
+        },
+        {
+          "checksum": "5f6192f0df438b0e94ef11d0de965838ecac6d822e8c6e9047e22b08232a4896",
+          "name": "common_system_dictionary_easy",
+          "size": 284576
+        },
+        {
+          "checksum": "318806db4e56fafd03360db21394941babec078573ef70253f7dbb1f1d83c5be",
+          "name": "common_system_dictionary_prefix",
+          "size": 970776
+        },
+        {
+          "checksum": "c6a74861ff43fb950e2059db3d8a9b247c4e7de1def1aa2cb79b9172ec42a60a",
+          "name": "data_scheme",
+          "size": 1198
+        },
+        {
+          "checksum": "fb5b40fc363d8f3d119cc38a42dd017fa368ffdb6dc1df4d2984842eb04f14e2",
+          "name": "dayi_setting_scheme",
+          "size": 171
+        },
+        {
+          "checksum": "98f03d21399d9c29f11beb60b85d675caf150f7a320b7cb0f2eae27d5094b3b4",
+          "name": "dayi_system_dictionary",
+          "size": 314960
+        },
+        {
+          "checksum": "6c6f83542e7558cb12942c369be8ef4e09b46e4f1ec25932586538470f6b9e65",
+          "name": "dayi_token",
+          "size": 80
+        },
+        {
+          "checksum": "193058da20786b8b5bdd616cac9e8ddfe728ba681d545df9a770ab1e7f8f330a",
+          "name": "english_dictionary",
+          "size": 373408
+        },
+        {
+          "checksum": "98ea2dc9bd1d391b913da8b991601e35575eb0fb4df81bf671be278fd8e02233",
+          "name": "english_reconversion_expansion",
+          "size": 240
+        },
+        {
+          "checksum": "56bd5a7f7bd3899e500ef7eceb3ffd32417fb942cab3599608b02bf09d72d751",
+          "name": "english_token_v_2",
+          "size": 80
+        },
+        {
+          "checksum": "15ef28cfc5709b10e866e271e6550efee47de8456d9f90b4af0aa0f0c5c95edd",
+          "name": "gesture_data_scheme",
+          "size": 120
+        },
+        {
+          "checksum": "59d9071e3be8de9855f64fc126ffd05600e35850e0d19f7be27d1bff4a125459",
+          "name": "pinyin_initial_token_expansion",
+          "size": 33824
+        },
+        {
+          "checksum": "95645dcc461b8057a7714aacf17e396d838451561a20c130a4724cb162198038",
+          "name": "pinyin_mutable_dictionary_accessor_setting_scheme",
+          "size": 308
+        },
+        {
+          "checksum": "087afde0b2a573ad5c2cb7610810e69d7ebccea2012190ea29345b8ab167c807",
+          "name": "pinyin_setting_scheme",
+          "size": 625
+        },
+        {
+          "checksum": "e98238c26b12e9d13f0151a89047f615fd83276f56fb0c8f430be518794449b7",
+          "name": "pinyin_token",
+          "size": 21312
+        },
+        {
+          "checksum": "9096c44f2d3845798a29933b60384106f586adc245eea1e2802f7a23fee27f9c",
+          "name": "stroke_setting_scheme",
+          "size": 392
+        },
+        {
+          "checksum": "50c6854b1b8876ea5f9f4c4f8dbecaf965fb26d8f1ba585c08547a2d66cd793e",
+          "name": "stroke_token_dictionary",
+          "size": 786472
+        },
+        {
+          "checksum": "7932bca4a15a4d090d1621d63f33987c297dfe2783995e9fe24eb74f83f08ba0",
+          "name": "token",
+          "size": 80
+        },
+        {
+          "checksum": "00698c542d91be82aa55866735f89adbff08aaba363f1e2e6f69e414944b8305",
+          "name": "v3_diff_system_dictionary_easy",
+          "size": 44784
+        },
+        {
+          "checksum": "e669e1251123315cfd4fa4134a155f68dbc65c4ad1efdc1d865c4f19145daeee",
+          "name": "v3_diff_system_dictionary_prefix",
+          "size": 139192
+        },
+        {
+          "checksum": "5317728245e5557401f0d8bbf9f06e09767c2ae70416c24196aa51d628ed4100",
+          "name": "v3_easy_setting_scheme",
+          "size": 313
+        },
+        {
+          "checksum": "f49ec3b230ad54894742767bf2d6b3ea6f14ba60f2fb82c6ad52fb32aba8d570",
+          "name": "v3_prefix_setting_scheme",
+          "size": 319
+        },
+        {
+          "checksum": "618da104813ea2deaff47cb9aa2c161fa9054791cd9d2ca911022047a64f9302",
+          "name": "v5_diff_system_dictionary_easy",
+          "size": 56152
+        },
+        {
+          "checksum": "882061976dcddcb79a3eb958d6de5f93eabcfa642e935f4731bb59a96193937a",
+          "name": "v5_diff_system_dictionary_prefix",
+          "size": 179248
+        },
+        {
+          "checksum": "d25f7d7fcbce8e593681d5d91d36c131042428f9dadb06b757b2422c8eae9fec",
+          "name": "v5_easy_setting_scheme",
+          "size": 313
+        },
+        {
+          "checksum": "974aacbf529a0b26afa18325db1dd74a472e3a4c528291dd20e8779d14e0171e",
+          "name": "v5_prefix_setting_scheme",
+          "size": 319
+        },
+        {
+          "checksum": "84a4bdb74dad22fe1edbd0fc47d6d740c43c12a117a5a6fcd7ff11cdbf982bb0",
+          "name": "zhuyin_bigram",
+          "size": 3980320
+        },
+        {
+          "checksum": "b6ffb326db0c1960e595e1018e9153600f01e3357e347789bab165a3b6dac112",
+          "name": "zhuyin_gesture_bigram",
+          "size": 2990152
+        },
+        {
+          "checksum": "1193c97eb2184f71261828d71a0734b9c9e85969cd30f94f052db51fbf30cef1",
+          "name": "zhuyin_gesture_lexicon",
+          "size": 18840
+        },
+        {
+          "checksum": "c9d6c9f64e91d52ad0315c1216d3d7322822404d959c3c611d713f67d62ca1c3",
+          "name": "zhuyin_initial_token_expansion",
+          "size": 27568
+        },
+        {
+          "checksum": "1486d5d731501487d5c5998f181f29db006db2d5c8ac9be88798586a1b754b61",
+          "name": "zhuyin_reconversion_expansion",
+          "size": 176128
+        },
+        {
+          "checksum": "2e87db61d8182b17ab998ba507b7a89299c6f3a5befc675d352be370765276b7",
+          "name": "zhuyin_system_dictionary",
+          "size": 2617968
+        },
+        {
+          "checksum": "d4fedddcc7329806be5a6b73e40a0f6e93486fb01fdb9921dee51bc1a85116fb",
+          "name": "zhuyin_token_v_2",
+          "size": 21648
+        }
+      ],
+      "locale": "zh-TW",
+      "name": "zh_tw_20220608.zip",
+      "size": 7650992,
+      "version": 20220608
+    }
+  ],
+  "version": 20220518
+}
